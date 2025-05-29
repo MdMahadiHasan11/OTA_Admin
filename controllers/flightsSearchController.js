@@ -5,6 +5,7 @@ const flightsSearchController = {
   getAllFlight: async (req, res) => {
     try {
       const result = await flightSearchModel.getAllFlight();
+      console.log(result);
       res.send(result);
     } catch (error) {
       console.error(error);
