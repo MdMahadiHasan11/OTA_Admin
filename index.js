@@ -1,9 +1,9 @@
+// index.js
 const express = require("express");
 const cors = require("cors");
 require("dotenv").config();
 const { connectDB } = require("./config/db");
-
-// const userRoutes = require("./routes/userRoutes");
+const flightSearchRoute = require("./routes/flightSearchRoute");
 
 const app = express();
 const port = process.env.PORT || 5000;
@@ -18,7 +18,7 @@ app.use(
 app.use(express.json());
 
 // Routes
-// app.use(userRoutes);
+app.use(flightSearchRoute);
 
 // Root Route
 app.get("/", (req, res) => {
