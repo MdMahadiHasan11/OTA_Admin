@@ -13,33 +13,47 @@ const client = new MongoClient(uri, {
 });
 
 let flightSearchCollection;
+let airportCollection;
+let airlineCollection;
+let bdDistrictCollection;
 let isConnected = false;
 
-async function connectDB() {
+const connectDB = async () => {
   if (isConnected) {
     console.log("Using existing MongoDB connection");
     return;
   }
   try {
-    await client.connect(); // Ensure the client connects
+    await client.connect();
     const db = client.db("OTA_MANAGERS");
     flightSearchCollection = db.collection("flightSearch");
+    airportCollection = db.collection("airports");
+
     isConnected = true;
     console.log("Successfully connected to MongoDB!");
   } catch (error) {
     console.error("Failed to connect to MongoDB:", error);
     process.exit(1);
   }
-}
+};
 
 module.exports = {
   connectDB,
   getCollections: () => {
-    if (!flightSearchCollection) {
+    if (
+      !isConnected ||
+      !flightSearchCollection ||
+      !airportCollection ||
+      airlineCollection ||
+      bdDistrictCollection
+    ) {
       throw new Error("Database not connected. Call connectDB first.");
     }
     return {
       flightSearchCollection,
+      airportCollection,
+      airlineCollection,
+      bdDistrictCollection,
     };
   },
 };
