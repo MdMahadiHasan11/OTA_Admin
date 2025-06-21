@@ -1,0 +1,753 @@
+// "Brand":
+[
+  {
+    "@type": "Brand",
+    "name": "Business Flex",
+    "tier": 7,
+    "shelfNumbers": [],
+    "code": "BFLEX",
+    "id": "b2",
+    "Identifier": {
+      "value": "1218973"
+    },
+    "BrandAttribute": [
+      {
+        "@type": "BrandAttribute",
+        "classification": "Refund",
+        "inclusion": "Chargeable",
+        "groupCode": "BF",
+        "subGroupCode": "RF",
+        "subCode": "056"
+      },
+      {
+        "@type": "BrandAttribute",
+        "classification": "Rebooking",
+        "inclusion": "Chargeable",
+        "groupCode": "BF",
+        "subGroupCode": "VC",
+        "subCode": "068"
+      },
+      {
+        "@type": "BrandAttribute",
+        "classification": "Meals",
+        "inclusion": "Included",
+        "groupCode": "ML",
+        "subGroupCode": "SN",
+        "subCode": "0AT"
+      },
+      {
+        "@type": "BrandAttribute",
+        "classification": "SeatAssignment",
+        "inclusion": "Included",
+        "groupCode": "SA",
+        "subCode": "0B5"
+      },
+      {
+        "@type": "BrandAttribute",
+        "classification": "CheckedBag",
+        "inclusion": "Included",
+        "groupCode": "BG",
+        "subCode": "0CC"
+      },
+      {
+        "@type": "BrandAttribute",
+        "classification": "CarryOn",
+        "inclusion": "Included",
+        "groupCode": "BG",
+        "subGroupCode": "CY",
+        "subCode": "0L5"
+      }
+    ],
+    "AdditionalBrandAttribute": [
+      {
+        "@type": "AdditionalBrandAttribute",
+        "groupCode": "BF",
+        "subGroupCode": "FR",
+        "subCode": "06G",
+        "Classification": "Mileage Accrual",
+        "Inclusion": "Included"
+      },
+      {
+        "@type": "AdditionalBrandAttribute",
+        "groupCode": "LG",
+        "subCode": "0BX",
+        "Classification": "Lounge Access",
+        "Inclusion": "Chargeable"
+      }
+    ],
+    "ImageURL": [
+      "https://cdn.travelport.com/usbanglaairlines/BS_general_small_391658.png"
+    ]
+  },
+  {
+    "@type": "Brand",
+    "name": "Business Saver",
+    "tier": 6,
+    "shelfNumbers": [],
+    "code": "BSAVER",
+    "id": "b3",
+    "Identifier": {
+      "value": "1218974"
+    },
+    "BrandAttribute": [
+      {
+        "@type": "BrandAttribute",
+        "classification": "Refund",
+        "inclusion": "Chargeable",
+        "groupCode": "BF",
+        "subGroupCode": "RF",
+        "subCode": "056"
+      },
+      {
+        "@type": "BrandAttribute",
+        "classification": "Rebooking",
+        "inclusion": "Chargeable",
+        "groupCode": "BF",
+        "subGroupCode": "VC",
+        "subCode": "068"
+      },
+      {
+        "@type": "BrandAttribute",
+        "classification": "Meals",
+        "inclusion": "Included",
+        "groupCode": "ML",
+        "subGroupCode": "SN",
+        "subCode": "0AT"
+      },
+      {
+        "@type": "BrandAttribute",
+        "classification": "SeatAssignment",
+        "inclusion": "Included",
+        "groupCode": "SA",
+        "subCode": "0B5"
+      },
+      {
+        "@type": "BrandAttribute",
+        "classification": "CheckedBag",
+        "inclusion": "Included",
+        "groupCode": "BG",
+        "subCode": "0CC"
+      },
+      {
+        "@type": "BrandAttribute",
+        "classification": "CarryOn",
+        "inclusion": "Included",
+        "groupCode": "BG",
+        "subGroupCode": "CY",
+        "subCode": "0L5"
+      }
+    ],
+    "AdditionalBrandAttribute": [
+      {
+        "@type": "AdditionalBrandAttribute",
+        "groupCode": "BF",
+        "subGroupCode": "FR",
+        "subCode": "06R",
+        "Classification": "Mileage Accrual",
+        "Inclusion": "Included"
+      },
+      {
+        "@type": "AdditionalBrandAttribute",
+        "groupCode": "LG",
+        "subCode": "0BX",
+        "Classification": "Lounge Access",
+        "Inclusion": "Chargeable"
+      }
+    ],
+    "ImageURL": [
+      "https://cdn.travelport.com/usbanglaairlines/BS_general_small_382309.png"
+    ]
+  },
+  {
+    "@type": "Brand",
+    "name": "Premium Economy",
+    "tier": 5,
+    "shelfNumbers": [],
+    "code": "EPLUS",
+    "id": "b4",
+    "Identifier": {
+      "value": "1218975"
+    },
+    "BrandAttribute": [
+      {
+        "@type": "BrandAttribute",
+        "classification": "Refund",
+        "inclusion": "Chargeable",
+        "groupCode": "BF",
+        "subGroupCode": "RF",
+        "subCode": "056"
+      },
+      {
+        "@type": "BrandAttribute",
+        "classification": "Rebooking",
+        "inclusion": "Chargeable",
+        "groupCode": "BF",
+        "subGroupCode": "VC",
+        "subCode": "068"
+      },
+      {
+        "@type": "BrandAttribute",
+        "classification": "Meals",
+        "inclusion": "Included",
+        "groupCode": "ML",
+        "subGroupCode": "SN",
+        "subCode": "0AT"
+      },
+      {
+        "@type": "BrandAttribute",
+        "classification": "SeatAssignment",
+        "inclusion": "Included",
+        "groupCode": "SA",
+        "subCode": "0B5"
+      },
+      {
+        "@type": "BrandAttribute",
+        "classification": "CheckedBag",
+        "inclusion": "Included",
+        "groupCode": "BG",
+        "subCode": "0CC"
+      },
+      {
+        "@type": "BrandAttribute",
+        "classification": "CarryOn",
+        "inclusion": "Included",
+        "groupCode": "BG",
+        "subGroupCode": "CY",
+        "subCode": "0L5"
+      }
+    ],
+    "AdditionalBrandAttribute": [
+      {
+        "@type": "AdditionalBrandAttribute",
+        "groupCode": "BF",
+        "subGroupCode": "FR",
+        "subCode": "06R",
+        "Classification": "Mileage Accrual",
+        "Inclusion": "Included"
+      },
+      {
+        "@type": "AdditionalBrandAttribute",
+        "groupCode": "LG",
+        "subCode": "0BX",
+        "Classification": "Lounge Access",
+        "Inclusion": "Chargeable"
+      }
+    ],
+    "ImageURL": [
+      "https://cdn.travelport.com/usbanglaairlines/BS_general_small_391657.png"
+    ]
+  },
+  {
+    "@type": "Brand",
+    "name": "Economy Saver",
+    "tier": 2,
+    "shelfNumbers": [],
+    "code": "ESAVER",
+    "id": "b5",
+    "Identifier": {
+      "value": "1218978"
+    },
+    "BrandAttribute": [
+      {
+        "@type": "BrandAttribute",
+        "classification": "Refund",
+        "inclusion": "Chargeable",
+        "groupCode": "BF",
+        "subGroupCode": "RF",
+        "subCode": "056"
+      },
+      {
+        "@type": "BrandAttribute",
+        "classification": "Rebooking",
+        "inclusion": "Chargeable",
+        "groupCode": "BF",
+        "subGroupCode": "VC",
+        "subCode": "068"
+      },
+      {
+        "@type": "BrandAttribute",
+        "classification": "Meals",
+        "inclusion": "Included",
+        "groupCode": "ML",
+        "subGroupCode": "SN",
+        "subCode": "0AT"
+      },
+      {
+        "@type": "BrandAttribute",
+        "classification": "SeatAssignment",
+        "inclusion": "Included",
+        "groupCode": "SA",
+        "subCode": "0B5"
+      },
+      {
+        "@type": "BrandAttribute",
+        "classification": "CheckedBag",
+        "inclusion": "Included",
+        "groupCode": "BG",
+        "subCode": "0CC"
+      },
+      {
+        "@type": "BrandAttribute",
+        "classification": "CarryOn",
+        "inclusion": "Included",
+        "groupCode": "BG",
+        "subGroupCode": "CY",
+        "subCode": "0L5"
+      }
+    ],
+    "AdditionalBrandAttribute": [
+      {
+        "@type": "AdditionalBrandAttribute",
+        "groupCode": "BF",
+        "subGroupCode": "FR",
+        "subCode": "06B",
+        "Classification": "Mileage Accrual",
+        "Inclusion": "Included"
+      },
+      {
+        "@type": "AdditionalBrandAttribute",
+        "groupCode": "LG",
+        "subCode": "0BX",
+        "Classification": "Lounge Access",
+        "Inclusion": "Chargeable"
+      }
+    ],
+    "ImageURL": [
+      "https://cdn.travelport.com/usbanglaairlines/BS_general_small_382289.png"
+    ]
+  },
+  {
+    "@type": "Brand",
+    "name": "Economy Value",
+    "tier": 3,
+    "shelfNumbers": [],
+    "code": "EVALUE",
+    "id": "b6",
+    "Identifier": {
+      "value": "1218977"
+    },
+    "BrandAttribute": [
+      {
+        "@type": "BrandAttribute",
+        "classification": "Refund",
+        "inclusion": "Chargeable",
+        "groupCode": "BF",
+        "subGroupCode": "RF",
+        "subCode": "056"
+      },
+      {
+        "@type": "BrandAttribute",
+        "classification": "Rebooking",
+        "inclusion": "Chargeable",
+        "groupCode": "BF",
+        "subGroupCode": "VC",
+        "subCode": "068"
+      },
+      {
+        "@type": "BrandAttribute",
+        "classification": "Meals",
+        "inclusion": "Included",
+        "groupCode": "ML",
+        "subGroupCode": "SN",
+        "subCode": "0AT"
+      },
+      {
+        "@type": "BrandAttribute",
+        "classification": "SeatAssignment",
+        "inclusion": "Included",
+        "groupCode": "SA",
+        "subCode": "0B5"
+      },
+      {
+        "@type": "BrandAttribute",
+        "classification": "CheckedBag",
+        "inclusion": "Included",
+        "groupCode": "BG",
+        "subCode": "0CC"
+      },
+      {
+        "@type": "BrandAttribute",
+        "classification": "CarryOn",
+        "inclusion": "Included",
+        "groupCode": "BG",
+        "subGroupCode": "CY",
+        "subCode": "0L5"
+      }
+    ],
+    "AdditionalBrandAttribute": [
+      {
+        "@type": "AdditionalBrandAttribute",
+        "groupCode": "BF",
+        "subGroupCode": "FR",
+        "subCode": "06C",
+        "Classification": "Mileage Accrual",
+        "Inclusion": "Included"
+      },
+      {
+        "@type": "AdditionalBrandAttribute",
+        "groupCode": "LG",
+        "subCode": "0BX",
+        "Classification": "Lounge Access",
+        "Inclusion": "Chargeable"
+      }
+    ],
+    "ImageURL": [
+      "https://cdn.travelport.com/usbanglaairlines/BS_general_small_382297.png"
+    ]
+  },
+  {
+    "@type": "Brand",
+    "name": "Economy Flex",
+    "tier": 4,
+    "shelfNumbers": [],
+    "code": "EFLEX",
+    "id": "b7",
+    "Identifier": {
+      "value": "1218976"
+    },
+    "BrandAttribute": [
+      {
+        "@type": "BrandAttribute",
+        "classification": "Refund",
+        "inclusion": "Chargeable",
+        "groupCode": "BF",
+        "subGroupCode": "RF",
+        "subCode": "056"
+      },
+      {
+        "@type": "BrandAttribute",
+        "classification": "Rebooking",
+        "inclusion": "Chargeable",
+        "groupCode": "BF",
+        "subGroupCode": "VC",
+        "subCode": "068"
+      },
+      {
+        "@type": "BrandAttribute",
+        "classification": "Meals",
+        "inclusion": "Included",
+        "groupCode": "ML",
+        "subGroupCode": "SN",
+        "subCode": "0AT"
+      },
+      {
+        "@type": "BrandAttribute",
+        "classification": "SeatAssignment",
+        "inclusion": "Included",
+        "groupCode": "SA",
+        "subCode": "0B5"
+      },
+      {
+        "@type": "BrandAttribute",
+        "classification": "CheckedBag",
+        "inclusion": "Included",
+        "groupCode": "BG",
+        "subCode": "0CC"
+      },
+      {
+        "@type": "BrandAttribute",
+        "classification": "CarryOn",
+        "inclusion": "Included",
+        "groupCode": "BG",
+        "subGroupCode": "CY",
+        "subCode": "0L5"
+      }
+    ],
+    "AdditionalBrandAttribute": [
+      {
+        "@type": "AdditionalBrandAttribute",
+        "groupCode": "BF",
+        "subGroupCode": "FR",
+        "subCode": "06D",
+        "Classification": "Mileage Accrual",
+        "Inclusion": "Included"
+      },
+      {
+        "@type": "AdditionalBrandAttribute",
+        "groupCode": "LG",
+        "subCode": "0BX",
+        "Classification": "Lounge Access",
+        "Inclusion": "Chargeable"
+      }
+    ],
+    "ImageURL": [
+      "https://cdn.travelport.com/usbanglaairlines/BS_general_small_382294.png"
+    ]
+  },
+  {
+    "@type": "Brand",
+    "name": "Economy Class",
+    "tier": 1,
+    "shelfNumbers": [],
+    "code": "Economy Cl",
+    "id": "b8",
+    "Identifier": {
+      "value": "1380804"
+    },
+    "BrandAttribute": [
+      {
+        "@type": "BrandAttribute",
+        "classification": "CarryOn",
+        "inclusion": "Included",
+        "groupCode": "BG",
+        "subGroupCode": "CY"
+      },
+      {
+        "@type": "BrandAttribute",
+        "classification": "Refund",
+        "inclusion": "Chargeable",
+        "groupCode": "BF",
+        "subGroupCode": "RF"
+      },
+      {
+        "@type": "BrandAttribute",
+        "classification": "Rebooking",
+        "inclusion": "Chargeable",
+        "groupCode": "BF",
+        "subGroupCode": "VC"
+      },
+      {
+        "@type": "BrandAttribute",
+        "classification": "CheckedBag",
+        "inclusion": "Included",
+        "groupCode": "BG"
+      },
+      {
+        "@type": "BrandAttribute",
+        "classification": "Meals",
+        "inclusion": "Chargeable",
+        "groupCode": "ML"
+      },
+      {
+        "@type": "BrandAttribute",
+        "classification": "WiFi",
+        "inclusion": "Not Offered",
+        "groupCode": "IE",
+        "subGroupCode": "IT"
+      }
+    ],
+    "ImageURL": [
+      "https://cdn.travelport.com/bimanbangladeshairlines/BG_general_medium_4867.jpg"
+    ]
+  },
+  {
+    "@type": "Brand",
+    "name": "Business Class",
+    "tier": 2,
+    "shelfNumbers": [],
+    "code": "Business C",
+    "id": "b9",
+    "Identifier": {
+      "value": "1380805"
+    },
+    "BrandAttribute": [
+      {
+        "@type": "BrandAttribute",
+        "classification": "CarryOn",
+        "inclusion": "Included",
+        "groupCode": "BG",
+        "subGroupCode": "CY"
+      },
+      {
+        "@type": "BrandAttribute",
+        "classification": "Refund",
+        "inclusion": "Chargeable",
+        "groupCode": "BF",
+        "subGroupCode": "RF"
+      },
+      {
+        "@type": "BrandAttribute",
+        "classification": "Rebooking",
+        "inclusion": "Chargeable",
+        "groupCode": "BF",
+        "subGroupCode": "VC"
+      },
+      {
+        "@type": "BrandAttribute",
+        "classification": "CheckedBag",
+        "inclusion": "Included",
+        "groupCode": "BG"
+      },
+      {
+        "@type": "BrandAttribute",
+        "classification": "Meals",
+        "inclusion": "Included",
+        "groupCode": "ML"
+      },
+      {
+        "@type": "BrandAttribute",
+        "classification": "SeatAssignment",
+        "inclusion": "Chargeable",
+        "groupCode": "SA"
+      },
+      {
+        "@type": "BrandAttribute",
+        "classification": "WiFi",
+        "inclusion": "Not Offered",
+        "groupCode": "IE",
+        "subGroupCode": "IT"
+      }
+    ],
+    "ImageURL": [
+      "https://cdn.travelport.com/bimanbangladeshairlines/BG_general_large_62499.jpg"
+    ]
+  },
+  {
+    "@type": "Brand",
+    "name": "Economy Light",
+    "tier": 1,
+    "shelfNumbers": [],
+    "code": "ELIGHT",
+    "id": "b0",
+    "Identifier": {
+      "value": "1218979"
+    },
+    "BrandAttribute": [
+      {
+        "@type": "BrandAttribute",
+        "classification": "Refund",
+        "inclusion": "Chargeable",
+        "groupCode": "BF",
+        "subGroupCode": "RF",
+        "subCode": "056"
+      },
+      {
+        "@type": "BrandAttribute",
+        "classification": "Rebooking",
+        "inclusion": "Chargeable",
+        "groupCode": "BF",
+        "subGroupCode": "VC",
+        "subCode": "068"
+      },
+      {
+        "@type": "BrandAttribute",
+        "classification": "Meals",
+        "inclusion": "Included",
+        "groupCode": "ML",
+        "subGroupCode": "SN",
+        "subCode": "0AT"
+      },
+      {
+        "@type": "BrandAttribute",
+        "classification": "SeatAssignment",
+        "inclusion": "Included",
+        "groupCode": "SA",
+        "subCode": "0B5"
+      },
+      {
+        "@type": "BrandAttribute",
+        "classification": "CheckedBag",
+        "inclusion": "Included",
+        "groupCode": "BG",
+        "subCode": "0CC"
+      },
+      {
+        "@type": "BrandAttribute",
+        "classification": "CarryOn",
+        "inclusion": "Included",
+        "groupCode": "BG",
+        "subGroupCode": "CY",
+        "subCode": "0L5"
+      }
+    ],
+    "AdditionalBrandAttribute": [
+      {
+        "@type": "AdditionalBrandAttribute",
+        "groupCode": "BF",
+        "subGroupCode": "FR",
+        "subCode": "06A",
+        "Classification": "Mileage Accrual",
+        "Inclusion": "Included"
+      },
+      {
+        "@type": "AdditionalBrandAttribute",
+        "groupCode": "LG",
+        "subCode": "0BX",
+        "Classification": "Lounge Access",
+        "Inclusion": "Chargeable"
+      }
+    ],
+    "ImageURL": [
+      "https://cdn.travelport.com/usbanglaairlines/BS_general_small_382288.png"
+    ]
+  },
+  {
+    "@type": "Brand",
+    "name": "First Prime",
+    "tier": 8,
+    "shelfNumbers": [],
+    "code": "FPRIME",
+    "id": "b1",
+    "Identifier": {
+      "value": "1218972"
+    },
+    "BrandAttribute": [
+      {
+        "@type": "BrandAttribute",
+        "classification": "Refund",
+        "inclusion": "Chargeable",
+        "groupCode": "BF",
+        "subGroupCode": "RF",
+        "subCode": "056"
+      },
+      {
+        "@type": "BrandAttribute",
+        "classification": "Rebooking",
+        "inclusion": "Chargeable",
+        "groupCode": "BF",
+        "subGroupCode": "VC",
+        "subCode": "068"
+      },
+      {
+        "@type": "BrandAttribute",
+        "classification": "Meals",
+        "inclusion": "Included",
+        "groupCode": "ML",
+        "subGroupCode": "SN",
+        "subCode": "0AT"
+      },
+      {
+        "@type": "BrandAttribute",
+        "classification": "SeatAssignment",
+        "inclusion": "Included",
+        "groupCode": "SA",
+        "subCode": "0B5"
+      },
+      {
+        "@type": "BrandAttribute",
+        "classification": "CheckedBag",
+        "inclusion": "Included",
+        "groupCode": "BG",
+        "subCode": "0CC"
+      },
+      {
+        "@type": "BrandAttribute",
+        "classification": "CarryOn",
+        "inclusion": "Included",
+        "groupCode": "BG",
+        "subGroupCode": "CY",
+        "subCode": "0L5"
+      }
+    ],
+    "AdditionalBrandAttribute": [
+      {
+        "@type": "AdditionalBrandAttribute",
+        "groupCode": "BF",
+        "subGroupCode": "FR",
+        "subCode": "06N",
+        "Classification": "Mileage Accrual",
+        "Inclusion": "Included"
+      },
+      {
+        "@type": "AdditionalBrandAttribute",
+        "groupCode": "LG",
+        "subCode": "0BX",
+        "Classification": "Lounge Access",
+        "Inclusion": "Chargeable"
+      }
+    ],
+    "ImageURL": [
+      "https://cdn.travelport.com/usbanglaairlines/BS_general_small_391657.png"
+    ]
+  }
+]

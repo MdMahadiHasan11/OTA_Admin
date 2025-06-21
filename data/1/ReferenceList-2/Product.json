@@ -1,0 +1,2473 @@
+// "Product":
+[
+  {
+    "@type": "ProductAir",
+    "totalDuration": "PT55M",
+    "id": "p0",
+    "Quantity": 9,
+    "FlightSegment": [
+      {
+        "@type": "FlightSegment",
+        "sequence": 1,
+        "Flight": {
+          "@type": "FlightID",
+          "FlightRef": "s1"
+        }
+      }
+    ],
+    "PassengerFlight": [
+      {
+        "@type": "PassengerFlight",
+        "passengerQuantity": 1,
+        "passengerTypeCode": "ADT",
+        "FlightProduct": [
+          {
+            "@type": "FlightProduct",
+            "segmentSequence": [1],
+            "classOfService": "I",
+            "cabin": "Economy",
+            "fareBasisCode": "IDOM6M",
+            "fareType": "PublicFare",
+            "fareTypeCode": "BR",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b0"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@type": "ProductAir",
+    "totalDuration": "PT1H5M",
+    "id": "p1",
+    "Quantity": 1,
+    "FlightSegment": [
+      {
+        "@type": "FlightSegment",
+        "sequence": 1,
+        "Flight": {
+          "@type": "FlightID",
+          "FlightRef": "s2"
+        }
+      }
+    ],
+    "PassengerFlight": [
+      {
+        "@type": "PassengerFlight",
+        "passengerQuantity": 1,
+        "passengerTypeCode": "ADT",
+        "FlightProduct": [
+          {
+            "@type": "FlightProduct",
+            "segmentSequence": [1],
+            "classOfService": "I",
+            "cabin": "Economy",
+            "fareBasisCode": "IDOM6M",
+            "fareType": "PublicFare",
+            "fareTypeCode": "BR",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b0"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@type": "ProductAir",
+    "totalDuration": "PT1H5M",
+    "id": "p2",
+    "Quantity": 9,
+    "FlightSegment": [
+      {
+        "@type": "FlightSegment",
+        "sequence": 1,
+        "Flight": {
+          "@type": "FlightID",
+          "FlightRef": "s3"
+        }
+      }
+    ],
+    "PassengerFlight": [
+      {
+        "@type": "PassengerFlight",
+        "passengerQuantity": 1,
+        "passengerTypeCode": "ADT",
+        "FlightProduct": [
+          {
+            "@type": "FlightProduct",
+            "segmentSequence": [1],
+            "classOfService": "I",
+            "cabin": "Economy",
+            "fareBasisCode": "IDOM6M",
+            "fareType": "PublicFare",
+            "fareTypeCode": "BR",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b0"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@type": "ProductAir",
+    "totalDuration": "PT1H5M",
+    "id": "p3",
+    "Quantity": 9,
+    "FlightSegment": [
+      {
+        "@type": "FlightSegment",
+        "sequence": 1,
+        "Flight": {
+          "@type": "FlightID",
+          "FlightRef": "s4"
+        }
+      }
+    ],
+    "PassengerFlight": [
+      {
+        "@type": "PassengerFlight",
+        "passengerQuantity": 1,
+        "passengerTypeCode": "ADT",
+        "FlightProduct": [
+          {
+            "@type": "FlightProduct",
+            "segmentSequence": [1],
+            "classOfService": "I",
+            "cabin": "Economy",
+            "fareBasisCode": "IDOM6M",
+            "fareType": "PublicFare",
+            "fareTypeCode": "BR",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b0"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@type": "ProductAir",
+    "totalDuration": "PT1H5M",
+    "id": "p4",
+    "Quantity": 9,
+    "FlightSegment": [
+      {
+        "@type": "FlightSegment",
+        "sequence": 1,
+        "Flight": {
+          "@type": "FlightID",
+          "FlightRef": "s5"
+        }
+      }
+    ],
+    "PassengerFlight": [
+      {
+        "@type": "PassengerFlight",
+        "passengerQuantity": 1,
+        "passengerTypeCode": "ADT",
+        "FlightProduct": [
+          {
+            "@type": "FlightProduct",
+            "segmentSequence": [1],
+            "classOfService": "I",
+            "cabin": "Economy",
+            "fareBasisCode": "IDOM6M",
+            "fareType": "PublicFare",
+            "fareTypeCode": "BR",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b0"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@type": "ProductAir",
+    "totalDuration": "PT1H5M",
+    "id": "p5",
+    "Quantity": 9,
+    "FlightSegment": [
+      {
+        "@type": "FlightSegment",
+        "sequence": 1,
+        "Flight": {
+          "@type": "FlightID",
+          "FlightRef": "s6"
+        }
+      }
+    ],
+    "PassengerFlight": [
+      {
+        "@type": "PassengerFlight",
+        "passengerQuantity": 1,
+        "passengerTypeCode": "ADT",
+        "FlightProduct": [
+          {
+            "@type": "FlightProduct",
+            "segmentSequence": [1],
+            "classOfService": "I",
+            "cabin": "Economy",
+            "fareBasisCode": "IDOM6M",
+            "fareType": "PublicFare",
+            "fareTypeCode": "BR",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b0"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@type": "ProductAir",
+    "totalDuration": "PT1H5M",
+    "id": "p6",
+    "Quantity": 9,
+    "FlightSegment": [
+      {
+        "@type": "FlightSegment",
+        "sequence": 1,
+        "Flight": {
+          "@type": "FlightID",
+          "FlightRef": "s7"
+        }
+      }
+    ],
+    "PassengerFlight": [
+      {
+        "@type": "PassengerFlight",
+        "passengerQuantity": 1,
+        "passengerTypeCode": "ADT",
+        "FlightProduct": [
+          {
+            "@type": "FlightProduct",
+            "segmentSequence": [1],
+            "classOfService": "I",
+            "cabin": "Economy",
+            "fareBasisCode": "IDOM6M",
+            "fareType": "PublicFare",
+            "fareTypeCode": "BR",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b0"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@type": "ProductAir",
+    "totalDuration": "PT55M",
+    "id": "p7",
+    "Quantity": 9,
+    "FlightSegment": [
+      {
+        "@type": "FlightSegment",
+        "sequence": 1,
+        "Flight": {
+          "@type": "FlightID",
+          "FlightRef": "s1"
+        }
+      }
+    ],
+    "PassengerFlight": [
+      {
+        "@type": "PassengerFlight",
+        "passengerQuantity": 1,
+        "passengerTypeCode": "ADT",
+        "FlightProduct": [
+          {
+            "@type": "FlightProduct",
+            "segmentSequence": [1],
+            "classOfService": "O",
+            "cabin": "Economy",
+            "fareBasisCode": "ODOM6M",
+            "fareType": "PublicFare",
+            "fareTypeCode": "XPX",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b5"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@type": "ProductAir",
+    "totalDuration": "PT1H5M",
+    "id": "p8",
+    "Quantity": 9,
+    "FlightSegment": [
+      {
+        "@type": "FlightSegment",
+        "sequence": 1,
+        "Flight": {
+          "@type": "FlightID",
+          "FlightRef": "s2"
+        }
+      }
+    ],
+    "PassengerFlight": [
+      {
+        "@type": "PassengerFlight",
+        "passengerQuantity": 1,
+        "passengerTypeCode": "ADT",
+        "FlightProduct": [
+          {
+            "@type": "FlightProduct",
+            "segmentSequence": [1],
+            "classOfService": "O",
+            "cabin": "Economy",
+            "fareBasisCode": "ODOM6M",
+            "fareType": "PublicFare",
+            "fareTypeCode": "XPX",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b5"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@type": "ProductAir",
+    "totalDuration": "PT1H5M",
+    "id": "p9",
+    "Quantity": 9,
+    "FlightSegment": [
+      {
+        "@type": "FlightSegment",
+        "sequence": 1,
+        "Flight": {
+          "@type": "FlightID",
+          "FlightRef": "s3"
+        }
+      }
+    ],
+    "PassengerFlight": [
+      {
+        "@type": "PassengerFlight",
+        "passengerQuantity": 1,
+        "passengerTypeCode": "ADT",
+        "FlightProduct": [
+          {
+            "@type": "FlightProduct",
+            "segmentSequence": [1],
+            "classOfService": "O",
+            "cabin": "Economy",
+            "fareBasisCode": "ODOM6M",
+            "fareType": "PublicFare",
+            "fareTypeCode": "XPX",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b5"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@type": "ProductAir",
+    "totalDuration": "PT1H5M",
+    "id": "p10",
+    "Quantity": 9,
+    "FlightSegment": [
+      {
+        "@type": "FlightSegment",
+        "sequence": 1,
+        "Flight": {
+          "@type": "FlightID",
+          "FlightRef": "s4"
+        }
+      }
+    ],
+    "PassengerFlight": [
+      {
+        "@type": "PassengerFlight",
+        "passengerQuantity": 1,
+        "passengerTypeCode": "ADT",
+        "FlightProduct": [
+          {
+            "@type": "FlightProduct",
+            "segmentSequence": [1],
+            "classOfService": "O",
+            "cabin": "Economy",
+            "fareBasisCode": "ODOM6M",
+            "fareType": "PublicFare",
+            "fareTypeCode": "XPX",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b5"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@type": "ProductAir",
+    "totalDuration": "PT1H5M",
+    "id": "p11",
+    "Quantity": 9,
+    "FlightSegment": [
+      {
+        "@type": "FlightSegment",
+        "sequence": 1,
+        "Flight": {
+          "@type": "FlightID",
+          "FlightRef": "s5"
+        }
+      }
+    ],
+    "PassengerFlight": [
+      {
+        "@type": "PassengerFlight",
+        "passengerQuantity": 1,
+        "passengerTypeCode": "ADT",
+        "FlightProduct": [
+          {
+            "@type": "FlightProduct",
+            "segmentSequence": [1],
+            "classOfService": "O",
+            "cabin": "Economy",
+            "fareBasisCode": "ODOM6M",
+            "fareType": "PublicFare",
+            "fareTypeCode": "XPX",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b5"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@type": "ProductAir",
+    "totalDuration": "PT1H5M",
+    "id": "p12",
+    "Quantity": 9,
+    "FlightSegment": [
+      {
+        "@type": "FlightSegment",
+        "sequence": 1,
+        "Flight": {
+          "@type": "FlightID",
+          "FlightRef": "s6"
+        }
+      }
+    ],
+    "PassengerFlight": [
+      {
+        "@type": "PassengerFlight",
+        "passengerQuantity": 1,
+        "passengerTypeCode": "ADT",
+        "FlightProduct": [
+          {
+            "@type": "FlightProduct",
+            "segmentSequence": [1],
+            "classOfService": "O",
+            "cabin": "Economy",
+            "fareBasisCode": "ODOM6M",
+            "fareType": "PublicFare",
+            "fareTypeCode": "XPX",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b5"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@type": "ProductAir",
+    "totalDuration": "PT1H5M",
+    "id": "p13",
+    "Quantity": 9,
+    "FlightSegment": [
+      {
+        "@type": "FlightSegment",
+        "sequence": 1,
+        "Flight": {
+          "@type": "FlightID",
+          "FlightRef": "s7"
+        }
+      }
+    ],
+    "PassengerFlight": [
+      {
+        "@type": "PassengerFlight",
+        "passengerQuantity": 1,
+        "passengerTypeCode": "ADT",
+        "FlightProduct": [
+          {
+            "@type": "FlightProduct",
+            "segmentSequence": [1],
+            "classOfService": "O",
+            "cabin": "Economy",
+            "fareBasisCode": "ODOM6M",
+            "fareType": "PublicFare",
+            "fareTypeCode": "XPX",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b5"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@type": "ProductAir",
+    "totalDuration": "PT55M",
+    "id": "p14",
+    "Quantity": 9,
+    "FlightSegment": [
+      {
+        "@type": "FlightSegment",
+        "sequence": 1,
+        "Flight": {
+          "@type": "FlightID",
+          "FlightRef": "s1"
+        }
+      }
+    ],
+    "PassengerFlight": [
+      {
+        "@type": "PassengerFlight",
+        "passengerQuantity": 1,
+        "passengerTypeCode": "ADT",
+        "FlightProduct": [
+          {
+            "@type": "FlightProduct",
+            "segmentSequence": [1],
+            "classOfService": "U",
+            "cabin": "Economy",
+            "fareBasisCode": "UDOMR",
+            "fareType": "PublicFare",
+            "fareTypeCode": "ER",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b6"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@type": "ProductAir",
+    "totalDuration": "PT1H5M",
+    "id": "p15",
+    "Quantity": 9,
+    "FlightSegment": [
+      {
+        "@type": "FlightSegment",
+        "sequence": 1,
+        "Flight": {
+          "@type": "FlightID",
+          "FlightRef": "s2"
+        }
+      }
+    ],
+    "PassengerFlight": [
+      {
+        "@type": "PassengerFlight",
+        "passengerQuantity": 1,
+        "passengerTypeCode": "ADT",
+        "FlightProduct": [
+          {
+            "@type": "FlightProduct",
+            "segmentSequence": [1],
+            "classOfService": "U",
+            "cabin": "Economy",
+            "fareBasisCode": "UDOMR",
+            "fareType": "PublicFare",
+            "fareTypeCode": "ER",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b6"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@type": "ProductAir",
+    "totalDuration": "PT1H5M",
+    "id": "p16",
+    "Quantity": 9,
+    "FlightSegment": [
+      {
+        "@type": "FlightSegment",
+        "sequence": 1,
+        "Flight": {
+          "@type": "FlightID",
+          "FlightRef": "s3"
+        }
+      }
+    ],
+    "PassengerFlight": [
+      {
+        "@type": "PassengerFlight",
+        "passengerQuantity": 1,
+        "passengerTypeCode": "ADT",
+        "FlightProduct": [
+          {
+            "@type": "FlightProduct",
+            "segmentSequence": [1],
+            "classOfService": "U",
+            "cabin": "Economy",
+            "fareBasisCode": "UDOMR",
+            "fareType": "PublicFare",
+            "fareTypeCode": "ER",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b6"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@type": "ProductAir",
+    "totalDuration": "PT1H5M",
+    "id": "p17",
+    "Quantity": 9,
+    "FlightSegment": [
+      {
+        "@type": "FlightSegment",
+        "sequence": 1,
+        "Flight": {
+          "@type": "FlightID",
+          "FlightRef": "s4"
+        }
+      }
+    ],
+    "PassengerFlight": [
+      {
+        "@type": "PassengerFlight",
+        "passengerQuantity": 1,
+        "passengerTypeCode": "ADT",
+        "FlightProduct": [
+          {
+            "@type": "FlightProduct",
+            "segmentSequence": [1],
+            "classOfService": "U",
+            "cabin": "Economy",
+            "fareBasisCode": "UDOMR",
+            "fareType": "PublicFare",
+            "fareTypeCode": "ER",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b6"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@type": "ProductAir",
+    "totalDuration": "PT1H5M",
+    "id": "p18",
+    "Quantity": 9,
+    "FlightSegment": [
+      {
+        "@type": "FlightSegment",
+        "sequence": 1,
+        "Flight": {
+          "@type": "FlightID",
+          "FlightRef": "s5"
+        }
+      }
+    ],
+    "PassengerFlight": [
+      {
+        "@type": "PassengerFlight",
+        "passengerQuantity": 1,
+        "passengerTypeCode": "ADT",
+        "FlightProduct": [
+          {
+            "@type": "FlightProduct",
+            "segmentSequence": [1],
+            "classOfService": "U",
+            "cabin": "Economy",
+            "fareBasisCode": "UDOMR",
+            "fareType": "PublicFare",
+            "fareTypeCode": "ER",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b6"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@type": "ProductAir",
+    "totalDuration": "PT1H5M",
+    "id": "p19",
+    "Quantity": 9,
+    "FlightSegment": [
+      {
+        "@type": "FlightSegment",
+        "sequence": 1,
+        "Flight": {
+          "@type": "FlightID",
+          "FlightRef": "s6"
+        }
+      }
+    ],
+    "PassengerFlight": [
+      {
+        "@type": "PassengerFlight",
+        "passengerQuantity": 1,
+        "passengerTypeCode": "ADT",
+        "FlightProduct": [
+          {
+            "@type": "FlightProduct",
+            "segmentSequence": [1],
+            "classOfService": "U",
+            "cabin": "Economy",
+            "fareBasisCode": "UDOMR",
+            "fareType": "PublicFare",
+            "fareTypeCode": "ER",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b6"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@type": "ProductAir",
+    "totalDuration": "PT1H5M",
+    "id": "p20",
+    "Quantity": 9,
+    "FlightSegment": [
+      {
+        "@type": "FlightSegment",
+        "sequence": 1,
+        "Flight": {
+          "@type": "FlightID",
+          "FlightRef": "s7"
+        }
+      }
+    ],
+    "PassengerFlight": [
+      {
+        "@type": "PassengerFlight",
+        "passengerQuantity": 1,
+        "passengerTypeCode": "ADT",
+        "FlightProduct": [
+          {
+            "@type": "FlightProduct",
+            "segmentSequence": [1],
+            "classOfService": "U",
+            "cabin": "Economy",
+            "fareBasisCode": "UDOMR",
+            "fareType": "PublicFare",
+            "fareTypeCode": "ER",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b6"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@type": "ProductAir",
+    "totalDuration": "PT55M",
+    "id": "p21",
+    "Quantity": 9,
+    "FlightSegment": [
+      {
+        "@type": "FlightSegment",
+        "sequence": 1,
+        "Flight": {
+          "@type": "FlightID",
+          "FlightRef": "s1"
+        }
+      }
+    ],
+    "PassengerFlight": [
+      {
+        "@type": "PassengerFlight",
+        "passengerQuantity": 1,
+        "passengerTypeCode": "ADT",
+        "FlightProduct": [
+          {
+            "@type": "FlightProduct",
+            "segmentSequence": [1],
+            "classOfService": "B",
+            "cabin": "Economy",
+            "fareBasisCode": "BDOMR",
+            "fareType": "PublicFare",
+            "fareTypeCode": "ER",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b7"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@type": "ProductAir",
+    "totalDuration": "PT1H5M",
+    "id": "p22",
+    "Quantity": 9,
+    "FlightSegment": [
+      {
+        "@type": "FlightSegment",
+        "sequence": 1,
+        "Flight": {
+          "@type": "FlightID",
+          "FlightRef": "s2"
+        }
+      }
+    ],
+    "PassengerFlight": [
+      {
+        "@type": "PassengerFlight",
+        "passengerQuantity": 1,
+        "passengerTypeCode": "ADT",
+        "FlightProduct": [
+          {
+            "@type": "FlightProduct",
+            "segmentSequence": [1],
+            "classOfService": "B",
+            "cabin": "Economy",
+            "fareBasisCode": "BDOMR",
+            "fareType": "PublicFare",
+            "fareTypeCode": "ER",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b7"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@type": "ProductAir",
+    "totalDuration": "PT1H5M",
+    "id": "p23",
+    "Quantity": 9,
+    "FlightSegment": [
+      {
+        "@type": "FlightSegment",
+        "sequence": 1,
+        "Flight": {
+          "@type": "FlightID",
+          "FlightRef": "s3"
+        }
+      }
+    ],
+    "PassengerFlight": [
+      {
+        "@type": "PassengerFlight",
+        "passengerQuantity": 1,
+        "passengerTypeCode": "ADT",
+        "FlightProduct": [
+          {
+            "@type": "FlightProduct",
+            "segmentSequence": [1],
+            "classOfService": "B",
+            "cabin": "Economy",
+            "fareBasisCode": "BDOMR",
+            "fareType": "PublicFare",
+            "fareTypeCode": "ER",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b7"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@type": "ProductAir",
+    "totalDuration": "PT1H5M",
+    "id": "p24",
+    "Quantity": 9,
+    "FlightSegment": [
+      {
+        "@type": "FlightSegment",
+        "sequence": 1,
+        "Flight": {
+          "@type": "FlightID",
+          "FlightRef": "s4"
+        }
+      }
+    ],
+    "PassengerFlight": [
+      {
+        "@type": "PassengerFlight",
+        "passengerQuantity": 1,
+        "passengerTypeCode": "ADT",
+        "FlightProduct": [
+          {
+            "@type": "FlightProduct",
+            "segmentSequence": [1],
+            "classOfService": "B",
+            "cabin": "Economy",
+            "fareBasisCode": "BDOMR",
+            "fareType": "PublicFare",
+            "fareTypeCode": "ER",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b7"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@type": "ProductAir",
+    "totalDuration": "PT1H5M",
+    "id": "p25",
+    "Quantity": 9,
+    "FlightSegment": [
+      {
+        "@type": "FlightSegment",
+        "sequence": 1,
+        "Flight": {
+          "@type": "FlightID",
+          "FlightRef": "s5"
+        }
+      }
+    ],
+    "PassengerFlight": [
+      {
+        "@type": "PassengerFlight",
+        "passengerQuantity": 1,
+        "passengerTypeCode": "ADT",
+        "FlightProduct": [
+          {
+            "@type": "FlightProduct",
+            "segmentSequence": [1],
+            "classOfService": "B",
+            "cabin": "Economy",
+            "fareBasisCode": "BDOMR",
+            "fareType": "PublicFare",
+            "fareTypeCode": "ER",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b7"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@type": "ProductAir",
+    "totalDuration": "PT1H5M",
+    "id": "p26",
+    "Quantity": 9,
+    "FlightSegment": [
+      {
+        "@type": "FlightSegment",
+        "sequence": 1,
+        "Flight": {
+          "@type": "FlightID",
+          "FlightRef": "s6"
+        }
+      }
+    ],
+    "PassengerFlight": [
+      {
+        "@type": "PassengerFlight",
+        "passengerQuantity": 1,
+        "passengerTypeCode": "ADT",
+        "FlightProduct": [
+          {
+            "@type": "FlightProduct",
+            "segmentSequence": [1],
+            "classOfService": "B",
+            "cabin": "Economy",
+            "fareBasisCode": "BDOMR",
+            "fareType": "PublicFare",
+            "fareTypeCode": "ER",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b7"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@type": "ProductAir",
+    "totalDuration": "PT1H5M",
+    "id": "p27",
+    "Quantity": 9,
+    "FlightSegment": [
+      {
+        "@type": "FlightSegment",
+        "sequence": 1,
+        "Flight": {
+          "@type": "FlightID",
+          "FlightRef": "s7"
+        }
+      }
+    ],
+    "PassengerFlight": [
+      {
+        "@type": "PassengerFlight",
+        "passengerQuantity": 1,
+        "passengerTypeCode": "ADT",
+        "FlightProduct": [
+          {
+            "@type": "FlightProduct",
+            "segmentSequence": [1],
+            "classOfService": "B",
+            "cabin": "Economy",
+            "fareBasisCode": "BDOMR",
+            "fareType": "PublicFare",
+            "fareTypeCode": "ER",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b7"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@type": "ProductAir",
+    "totalDuration": "PT1H5M",
+    "id": "p28",
+    "Quantity": 9,
+    "FlightSegment": [
+      {
+        "@type": "FlightSegment",
+        "sequence": 1,
+        "Flight": {
+          "@type": "FlightID",
+          "FlightRef": "s11"
+        }
+      }
+    ],
+    "PassengerFlight": [
+      {
+        "@type": "PassengerFlight",
+        "passengerQuantity": 1,
+        "passengerTypeCode": "ADT",
+        "FlightProduct": [
+          {
+            "@type": "FlightProduct",
+            "segmentSequence": [1],
+            "classOfService": "I",
+            "cabin": "Economy",
+            "fareBasisCode": "IDOM6M",
+            "fareType": "PublicFare",
+            "fareTypeCode": "BR",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b0"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@type": "ProductAir",
+    "totalDuration": "PT1H5M",
+    "id": "p29",
+    "Quantity": 7,
+    "FlightSegment": [
+      {
+        "@type": "FlightSegment",
+        "sequence": 1,
+        "Flight": {
+          "@type": "FlightID",
+          "FlightRef": "s12"
+        }
+      }
+    ],
+    "PassengerFlight": [
+      {
+        "@type": "PassengerFlight",
+        "passengerQuantity": 1,
+        "passengerTypeCode": "ADT",
+        "FlightProduct": [
+          {
+            "@type": "FlightProduct",
+            "segmentSequence": [1],
+            "classOfService": "I",
+            "cabin": "Economy",
+            "fareBasisCode": "IDOM6M",
+            "fareType": "PublicFare",
+            "fareTypeCode": "BR",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b0"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@type": "ProductAir",
+    "totalDuration": "PT1H5M",
+    "id": "p30",
+    "Quantity": 9,
+    "FlightSegment": [
+      {
+        "@type": "FlightSegment",
+        "sequence": 1,
+        "Flight": {
+          "@type": "FlightID",
+          "FlightRef": "s14"
+        }
+      }
+    ],
+    "PassengerFlight": [
+      {
+        "@type": "PassengerFlight",
+        "passengerQuantity": 1,
+        "passengerTypeCode": "ADT",
+        "FlightProduct": [
+          {
+            "@type": "FlightProduct",
+            "segmentSequence": [1],
+            "classOfService": "I",
+            "cabin": "Economy",
+            "fareBasisCode": "IDOM6M",
+            "fareType": "PublicFare",
+            "fareTypeCode": "BR",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b0"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@type": "ProductAir",
+    "totalDuration": "PT1H5M",
+    "id": "p31",
+    "Quantity": 7,
+    "FlightSegment": [
+      {
+        "@type": "FlightSegment",
+        "sequence": 1,
+        "Flight": {
+          "@type": "FlightID",
+          "FlightRef": "s16"
+        }
+      }
+    ],
+    "PassengerFlight": [
+      {
+        "@type": "PassengerFlight",
+        "passengerQuantity": 1,
+        "passengerTypeCode": "ADT",
+        "FlightProduct": [
+          {
+            "@type": "FlightProduct",
+            "segmentSequence": [1],
+            "classOfService": "I",
+            "cabin": "Economy",
+            "fareBasisCode": "IDOM6M",
+            "fareType": "PublicFare",
+            "fareTypeCode": "BR",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b0"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@type": "ProductAir",
+    "totalDuration": "PT1H5M",
+    "id": "p32",
+    "Quantity": 9,
+    "FlightSegment": [
+      {
+        "@type": "FlightSegment",
+        "sequence": 1,
+        "Flight": {
+          "@type": "FlightID",
+          "FlightRef": "s17"
+        }
+      }
+    ],
+    "PassengerFlight": [
+      {
+        "@type": "PassengerFlight",
+        "passengerQuantity": 1,
+        "passengerTypeCode": "ADT",
+        "FlightProduct": [
+          {
+            "@type": "FlightProduct",
+            "segmentSequence": [1],
+            "classOfService": "I",
+            "cabin": "Economy",
+            "fareBasisCode": "IDOM6M",
+            "fareType": "PublicFare",
+            "fareTypeCode": "BR",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b0"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@type": "ProductAir",
+    "totalDuration": "PT1H5M",
+    "id": "p33",
+    "Quantity": 9,
+    "FlightSegment": [
+      {
+        "@type": "FlightSegment",
+        "sequence": 1,
+        "Flight": {
+          "@type": "FlightID",
+          "FlightRef": "s19"
+        }
+      }
+    ],
+    "PassengerFlight": [
+      {
+        "@type": "PassengerFlight",
+        "passengerQuantity": 1,
+        "passengerTypeCode": "ADT",
+        "FlightProduct": [
+          {
+            "@type": "FlightProduct",
+            "segmentSequence": [1],
+            "classOfService": "I",
+            "cabin": "Economy",
+            "fareBasisCode": "IDOM6M",
+            "fareType": "PublicFare",
+            "fareTypeCode": "BR",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b0"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@type": "ProductAir",
+    "totalDuration": "PT1H5M",
+    "id": "p34",
+    "Quantity": 9,
+    "FlightSegment": [
+      {
+        "@type": "FlightSegment",
+        "sequence": 1,
+        "Flight": {
+          "@type": "FlightID",
+          "FlightRef": "s20"
+        }
+      }
+    ],
+    "PassengerFlight": [
+      {
+        "@type": "PassengerFlight",
+        "passengerQuantity": 1,
+        "passengerTypeCode": "ADT",
+        "FlightProduct": [
+          {
+            "@type": "FlightProduct",
+            "segmentSequence": [1],
+            "classOfService": "I",
+            "cabin": "Economy",
+            "fareBasisCode": "IDOM6M",
+            "fareType": "PublicFare",
+            "fareTypeCode": "BR",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b0"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@type": "ProductAir",
+    "totalDuration": "PT1H5M",
+    "id": "p35",
+    "Quantity": 9,
+    "FlightSegment": [
+      {
+        "@type": "FlightSegment",
+        "sequence": 1,
+        "Flight": {
+          "@type": "FlightID",
+          "FlightRef": "s11"
+        }
+      }
+    ],
+    "PassengerFlight": [
+      {
+        "@type": "PassengerFlight",
+        "passengerQuantity": 1,
+        "passengerTypeCode": "ADT",
+        "FlightProduct": [
+          {
+            "@type": "FlightProduct",
+            "segmentSequence": [1],
+            "classOfService": "O",
+            "cabin": "Economy",
+            "fareBasisCode": "ODOM6M",
+            "fareType": "PublicFare",
+            "fareTypeCode": "XPX",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b5"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@type": "ProductAir",
+    "totalDuration": "PT1H5M",
+    "id": "p36",
+    "Quantity": 9,
+    "FlightSegment": [
+      {
+        "@type": "FlightSegment",
+        "sequence": 1,
+        "Flight": {
+          "@type": "FlightID",
+          "FlightRef": "s12"
+        }
+      }
+    ],
+    "PassengerFlight": [
+      {
+        "@type": "PassengerFlight",
+        "passengerQuantity": 1,
+        "passengerTypeCode": "ADT",
+        "FlightProduct": [
+          {
+            "@type": "FlightProduct",
+            "segmentSequence": [1],
+            "classOfService": "O",
+            "cabin": "Economy",
+            "fareBasisCode": "ODOM6M",
+            "fareType": "PublicFare",
+            "fareTypeCode": "XPX",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b5"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@type": "ProductAir",
+    "totalDuration": "PT1H5M",
+    "id": "p37",
+    "Quantity": 9,
+    "FlightSegment": [
+      {
+        "@type": "FlightSegment",
+        "sequence": 1,
+        "Flight": {
+          "@type": "FlightID",
+          "FlightRef": "s14"
+        }
+      }
+    ],
+    "PassengerFlight": [
+      {
+        "@type": "PassengerFlight",
+        "passengerQuantity": 1,
+        "passengerTypeCode": "ADT",
+        "FlightProduct": [
+          {
+            "@type": "FlightProduct",
+            "segmentSequence": [1],
+            "classOfService": "O",
+            "cabin": "Economy",
+            "fareBasisCode": "ODOM6M",
+            "fareType": "PublicFare",
+            "fareTypeCode": "XPX",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b5"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@type": "ProductAir",
+    "totalDuration": "PT1H5M",
+    "id": "p38",
+    "Quantity": 9,
+    "FlightSegment": [
+      {
+        "@type": "FlightSegment",
+        "sequence": 1,
+        "Flight": {
+          "@type": "FlightID",
+          "FlightRef": "s16"
+        }
+      }
+    ],
+    "PassengerFlight": [
+      {
+        "@type": "PassengerFlight",
+        "passengerQuantity": 1,
+        "passengerTypeCode": "ADT",
+        "FlightProduct": [
+          {
+            "@type": "FlightProduct",
+            "segmentSequence": [1],
+            "classOfService": "O",
+            "cabin": "Economy",
+            "fareBasisCode": "ODOM6M",
+            "fareType": "PublicFare",
+            "fareTypeCode": "XPX",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b5"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@type": "ProductAir",
+    "totalDuration": "PT1H5M",
+    "id": "p39",
+    "Quantity": 9,
+    "FlightSegment": [
+      {
+        "@type": "FlightSegment",
+        "sequence": 1,
+        "Flight": {
+          "@type": "FlightID",
+          "FlightRef": "s17"
+        }
+      }
+    ],
+    "PassengerFlight": [
+      {
+        "@type": "PassengerFlight",
+        "passengerQuantity": 1,
+        "passengerTypeCode": "ADT",
+        "FlightProduct": [
+          {
+            "@type": "FlightProduct",
+            "segmentSequence": [1],
+            "classOfService": "O",
+            "cabin": "Economy",
+            "fareBasisCode": "ODOM6M",
+            "fareType": "PublicFare",
+            "fareTypeCode": "XPX",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b5"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@type": "ProductAir",
+    "totalDuration": "PT1H5M",
+    "id": "p40",
+    "Quantity": 9,
+    "FlightSegment": [
+      {
+        "@type": "FlightSegment",
+        "sequence": 1,
+        "Flight": {
+          "@type": "FlightID",
+          "FlightRef": "s19"
+        }
+      }
+    ],
+    "PassengerFlight": [
+      {
+        "@type": "PassengerFlight",
+        "passengerQuantity": 1,
+        "passengerTypeCode": "ADT",
+        "FlightProduct": [
+          {
+            "@type": "FlightProduct",
+            "segmentSequence": [1],
+            "classOfService": "O",
+            "cabin": "Economy",
+            "fareBasisCode": "ODOM6M",
+            "fareType": "PublicFare",
+            "fareTypeCode": "XPX",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b5"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@type": "ProductAir",
+    "totalDuration": "PT1H5M",
+    "id": "p41",
+    "Quantity": 9,
+    "FlightSegment": [
+      {
+        "@type": "FlightSegment",
+        "sequence": 1,
+        "Flight": {
+          "@type": "FlightID",
+          "FlightRef": "s20"
+        }
+      }
+    ],
+    "PassengerFlight": [
+      {
+        "@type": "PassengerFlight",
+        "passengerQuantity": 1,
+        "passengerTypeCode": "ADT",
+        "FlightProduct": [
+          {
+            "@type": "FlightProduct",
+            "segmentSequence": [1],
+            "classOfService": "O",
+            "cabin": "Economy",
+            "fareBasisCode": "ODOM6M",
+            "fareType": "PublicFare",
+            "fareTypeCode": "XPX",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b5"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@type": "ProductAir",
+    "totalDuration": "PT1H5M",
+    "id": "p42",
+    "Quantity": 9,
+    "FlightSegment": [
+      {
+        "@type": "FlightSegment",
+        "sequence": 1,
+        "Flight": {
+          "@type": "FlightID",
+          "FlightRef": "s11"
+        }
+      }
+    ],
+    "PassengerFlight": [
+      {
+        "@type": "PassengerFlight",
+        "passengerQuantity": 1,
+        "passengerTypeCode": "ADT",
+        "FlightProduct": [
+          {
+            "@type": "FlightProduct",
+            "segmentSequence": [1],
+            "classOfService": "U",
+            "cabin": "Economy",
+            "fareBasisCode": "UDOMR",
+            "fareType": "PublicFare",
+            "fareTypeCode": "ER",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b6"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@type": "ProductAir",
+    "totalDuration": "PT1H5M",
+    "id": "p43",
+    "Quantity": 9,
+    "FlightSegment": [
+      {
+        "@type": "FlightSegment",
+        "sequence": 1,
+        "Flight": {
+          "@type": "FlightID",
+          "FlightRef": "s12"
+        }
+      }
+    ],
+    "PassengerFlight": [
+      {
+        "@type": "PassengerFlight",
+        "passengerQuantity": 1,
+        "passengerTypeCode": "ADT",
+        "FlightProduct": [
+          {
+            "@type": "FlightProduct",
+            "segmentSequence": [1],
+            "classOfService": "U",
+            "cabin": "Economy",
+            "fareBasisCode": "UDOMR",
+            "fareType": "PublicFare",
+            "fareTypeCode": "ER",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b6"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@type": "ProductAir",
+    "totalDuration": "PT1H5M",
+    "id": "p44",
+    "Quantity": 9,
+    "FlightSegment": [
+      {
+        "@type": "FlightSegment",
+        "sequence": 1,
+        "Flight": {
+          "@type": "FlightID",
+          "FlightRef": "s14"
+        }
+      }
+    ],
+    "PassengerFlight": [
+      {
+        "@type": "PassengerFlight",
+        "passengerQuantity": 1,
+        "passengerTypeCode": "ADT",
+        "FlightProduct": [
+          {
+            "@type": "FlightProduct",
+            "segmentSequence": [1],
+            "classOfService": "U",
+            "cabin": "Economy",
+            "fareBasisCode": "UDOMR",
+            "fareType": "PublicFare",
+            "fareTypeCode": "ER",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b6"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@type": "ProductAir",
+    "totalDuration": "PT1H5M",
+    "id": "p45",
+    "Quantity": 9,
+    "FlightSegment": [
+      {
+        "@type": "FlightSegment",
+        "sequence": 1,
+        "Flight": {
+          "@type": "FlightID",
+          "FlightRef": "s16"
+        }
+      }
+    ],
+    "PassengerFlight": [
+      {
+        "@type": "PassengerFlight",
+        "passengerQuantity": 1,
+        "passengerTypeCode": "ADT",
+        "FlightProduct": [
+          {
+            "@type": "FlightProduct",
+            "segmentSequence": [1],
+            "classOfService": "U",
+            "cabin": "Economy",
+            "fareBasisCode": "UDOMR",
+            "fareType": "PublicFare",
+            "fareTypeCode": "ER",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b6"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@type": "ProductAir",
+    "totalDuration": "PT1H5M",
+    "id": "p46",
+    "Quantity": 9,
+    "FlightSegment": [
+      {
+        "@type": "FlightSegment",
+        "sequence": 1,
+        "Flight": {
+          "@type": "FlightID",
+          "FlightRef": "s17"
+        }
+      }
+    ],
+    "PassengerFlight": [
+      {
+        "@type": "PassengerFlight",
+        "passengerQuantity": 1,
+        "passengerTypeCode": "ADT",
+        "FlightProduct": [
+          {
+            "@type": "FlightProduct",
+            "segmentSequence": [1],
+            "classOfService": "U",
+            "cabin": "Economy",
+            "fareBasisCode": "UDOMR",
+            "fareType": "PublicFare",
+            "fareTypeCode": "ER",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b6"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@type": "ProductAir",
+    "totalDuration": "PT1H5M",
+    "id": "p47",
+    "Quantity": 9,
+    "FlightSegment": [
+      {
+        "@type": "FlightSegment",
+        "sequence": 1,
+        "Flight": {
+          "@type": "FlightID",
+          "FlightRef": "s19"
+        }
+      }
+    ],
+    "PassengerFlight": [
+      {
+        "@type": "PassengerFlight",
+        "passengerQuantity": 1,
+        "passengerTypeCode": "ADT",
+        "FlightProduct": [
+          {
+            "@type": "FlightProduct",
+            "segmentSequence": [1],
+            "classOfService": "U",
+            "cabin": "Economy",
+            "fareBasisCode": "UDOMR",
+            "fareType": "PublicFare",
+            "fareTypeCode": "ER",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b6"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@type": "ProductAir",
+    "totalDuration": "PT1H5M",
+    "id": "p48",
+    "Quantity": 9,
+    "FlightSegment": [
+      {
+        "@type": "FlightSegment",
+        "sequence": 1,
+        "Flight": {
+          "@type": "FlightID",
+          "FlightRef": "s20"
+        }
+      }
+    ],
+    "PassengerFlight": [
+      {
+        "@type": "PassengerFlight",
+        "passengerQuantity": 1,
+        "passengerTypeCode": "ADT",
+        "FlightProduct": [
+          {
+            "@type": "FlightProduct",
+            "segmentSequence": [1],
+            "classOfService": "U",
+            "cabin": "Economy",
+            "fareBasisCode": "UDOMR",
+            "fareType": "PublicFare",
+            "fareTypeCode": "ER",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b6"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@type": "ProductAir",
+    "totalDuration": "PT1H5M",
+    "id": "p49",
+    "Quantity": 9,
+    "FlightSegment": [
+      {
+        "@type": "FlightSegment",
+        "sequence": 1,
+        "Flight": {
+          "@type": "FlightID",
+          "FlightRef": "s11"
+        }
+      }
+    ],
+    "PassengerFlight": [
+      {
+        "@type": "PassengerFlight",
+        "passengerQuantity": 1,
+        "passengerTypeCode": "ADT",
+        "FlightProduct": [
+          {
+            "@type": "FlightProduct",
+            "segmentSequence": [1],
+            "classOfService": "B",
+            "cabin": "Economy",
+            "fareBasisCode": "BDOMR",
+            "fareType": "PublicFare",
+            "fareTypeCode": "ER",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b7"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@type": "ProductAir",
+    "totalDuration": "PT1H5M",
+    "id": "p50",
+    "Quantity": 2,
+    "FlightSegment": [
+      {
+        "@type": "FlightSegment",
+        "sequence": 1,
+        "Flight": {
+          "@type": "FlightID",
+          "FlightRef": "s12"
+        }
+      }
+    ],
+    "PassengerFlight": [
+      {
+        "@type": "PassengerFlight",
+        "passengerQuantity": 1,
+        "passengerTypeCode": "ADT",
+        "FlightProduct": [
+          {
+            "@type": "FlightProduct",
+            "segmentSequence": [1],
+            "classOfService": "B",
+            "cabin": "Economy",
+            "fareBasisCode": "BDOMR",
+            "fareType": "PublicFare",
+            "fareTypeCode": "ER",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b7"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@type": "ProductAir",
+    "totalDuration": "PT1H5M",
+    "id": "p51",
+    "Quantity": 9,
+    "FlightSegment": [
+      {
+        "@type": "FlightSegment",
+        "sequence": 1,
+        "Flight": {
+          "@type": "FlightID",
+          "FlightRef": "s14"
+        }
+      }
+    ],
+    "PassengerFlight": [
+      {
+        "@type": "PassengerFlight",
+        "passengerQuantity": 1,
+        "passengerTypeCode": "ADT",
+        "FlightProduct": [
+          {
+            "@type": "FlightProduct",
+            "segmentSequence": [1],
+            "classOfService": "B",
+            "cabin": "Economy",
+            "fareBasisCode": "BDOMR",
+            "fareType": "PublicFare",
+            "fareTypeCode": "ER",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b7"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@type": "ProductAir",
+    "totalDuration": "PT1H5M",
+    "id": "p52",
+    "Quantity": 9,
+    "FlightSegment": [
+      {
+        "@type": "FlightSegment",
+        "sequence": 1,
+        "Flight": {
+          "@type": "FlightID",
+          "FlightRef": "s16"
+        }
+      }
+    ],
+    "PassengerFlight": [
+      {
+        "@type": "PassengerFlight",
+        "passengerQuantity": 1,
+        "passengerTypeCode": "ADT",
+        "FlightProduct": [
+          {
+            "@type": "FlightProduct",
+            "segmentSequence": [1],
+            "classOfService": "B",
+            "cabin": "Economy",
+            "fareBasisCode": "BDOMR",
+            "fareType": "PublicFare",
+            "fareTypeCode": "ER",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b7"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@type": "ProductAir",
+    "totalDuration": "PT1H5M",
+    "id": "p53",
+    "Quantity": 9,
+    "FlightSegment": [
+      {
+        "@type": "FlightSegment",
+        "sequence": 1,
+        "Flight": {
+          "@type": "FlightID",
+          "FlightRef": "s17"
+        }
+      }
+    ],
+    "PassengerFlight": [
+      {
+        "@type": "PassengerFlight",
+        "passengerQuantity": 1,
+        "passengerTypeCode": "ADT",
+        "FlightProduct": [
+          {
+            "@type": "FlightProduct",
+            "segmentSequence": [1],
+            "classOfService": "B",
+            "cabin": "Economy",
+            "fareBasisCode": "BDOMR",
+            "fareType": "PublicFare",
+            "fareTypeCode": "ER",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b7"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@type": "ProductAir",
+    "totalDuration": "PT1H5M",
+    "id": "p54",
+    "Quantity": 9,
+    "FlightSegment": [
+      {
+        "@type": "FlightSegment",
+        "sequence": 1,
+        "Flight": {
+          "@type": "FlightID",
+          "FlightRef": "s19"
+        }
+      }
+    ],
+    "PassengerFlight": [
+      {
+        "@type": "PassengerFlight",
+        "passengerQuantity": 1,
+        "passengerTypeCode": "ADT",
+        "FlightProduct": [
+          {
+            "@type": "FlightProduct",
+            "segmentSequence": [1],
+            "classOfService": "B",
+            "cabin": "Economy",
+            "fareBasisCode": "BDOMR",
+            "fareType": "PublicFare",
+            "fareTypeCode": "ER",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b7"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@type": "ProductAir",
+    "totalDuration": "PT1H5M",
+    "id": "p55",
+    "Quantity": 9,
+    "FlightSegment": [
+      {
+        "@type": "FlightSegment",
+        "sequence": 1,
+        "Flight": {
+          "@type": "FlightID",
+          "FlightRef": "s20"
+        }
+      }
+    ],
+    "PassengerFlight": [
+      {
+        "@type": "PassengerFlight",
+        "passengerQuantity": 1,
+        "passengerTypeCode": "ADT",
+        "FlightProduct": [
+          {
+            "@type": "FlightProduct",
+            "segmentSequence": [1],
+            "classOfService": "B",
+            "cabin": "Economy",
+            "fareBasisCode": "BDOMR",
+            "fareType": "PublicFare",
+            "fareTypeCode": "ER",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b7"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@type": "ProductAir",
+    "totalDuration": "PT1H15M",
+    "id": "p56",
+    "Quantity": 9,
+    "FlightSegment": [
+      {
+        "@type": "FlightSegment",
+        "sequence": 1,
+        "Flight": {
+          "@type": "FlightID",
+          "FlightRef": "s8"
+        }
+      }
+    ],
+    "PassengerFlight": [
+      {
+        "@type": "PassengerFlight",
+        "passengerQuantity": 1,
+        "passengerTypeCode": "ADT",
+        "FlightProduct": [
+          {
+            "@type": "FlightProduct",
+            "segmentSequence": [1],
+            "classOfService": "T",
+            "cabin": "Economy",
+            "fareBasisCode": "TDACFR",
+            "fareType": "AirlinePrivateFare",
+            "fareTypeCode": "XEX",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b8"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@type": "ProductAir",
+    "totalDuration": "PT1H15M",
+    "id": "p57",
+    "Quantity": 9,
+    "FlightSegment": [
+      {
+        "@type": "FlightSegment",
+        "sequence": 1,
+        "Flight": {
+          "@type": "FlightID",
+          "FlightRef": "s9"
+        }
+      }
+    ],
+    "PassengerFlight": [
+      {
+        "@type": "PassengerFlight",
+        "passengerQuantity": 1,
+        "passengerTypeCode": "ADT",
+        "FlightProduct": [
+          {
+            "@type": "FlightProduct",
+            "segmentSequence": [1],
+            "classOfService": "T",
+            "cabin": "Economy",
+            "fareBasisCode": "TDACFR",
+            "fareType": "AirlinePrivateFare",
+            "fareTypeCode": "XEX",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b8"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@type": "ProductAir",
+    "totalDuration": "PT1H15M",
+    "id": "p58",
+    "Quantity": 9,
+    "FlightSegment": [
+      {
+        "@type": "FlightSegment",
+        "sequence": 1,
+        "Flight": {
+          "@type": "FlightID",
+          "FlightRef": "s10"
+        }
+      }
+    ],
+    "PassengerFlight": [
+      {
+        "@type": "PassengerFlight",
+        "passengerQuantity": 1,
+        "passengerTypeCode": "ADT",
+        "FlightProduct": [
+          {
+            "@type": "FlightProduct",
+            "segmentSequence": [1],
+            "classOfService": "T",
+            "cabin": "Economy",
+            "fareBasisCode": "TDACFR",
+            "fareType": "AirlinePrivateFare",
+            "fareTypeCode": "XEX",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b8"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@type": "ProductAir",
+    "totalDuration": "PT1H5M",
+    "id": "p59",
+    "Quantity": 7,
+    "FlightSegment": [
+      {
+        "@type": "FlightSegment",
+        "sequence": 1,
+        "Flight": {
+          "@type": "FlightID",
+          "FlightRef": "s13"
+        }
+      }
+    ],
+    "PassengerFlight": [
+      {
+        "@type": "PassengerFlight",
+        "passengerQuantity": 1,
+        "passengerTypeCode": "ADT",
+        "FlightProduct": [
+          {
+            "@type": "FlightProduct",
+            "segmentSequence": [1],
+            "classOfService": "T",
+            "cabin": "Economy",
+            "fareBasisCode": "TDACFR",
+            "fareType": "AirlinePrivateFare",
+            "fareTypeCode": "XEX",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b8"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@type": "ProductAir",
+    "totalDuration": "PT1H5M",
+    "id": "p60",
+    "Quantity": 9,
+    "FlightSegment": [
+      {
+        "@type": "FlightSegment",
+        "sequence": 1,
+        "Flight": {
+          "@type": "FlightID",
+          "FlightRef": "s18"
+        }
+      }
+    ],
+    "PassengerFlight": [
+      {
+        "@type": "PassengerFlight",
+        "passengerQuantity": 1,
+        "passengerTypeCode": "ADT",
+        "FlightProduct": [
+          {
+            "@type": "FlightProduct",
+            "segmentSequence": [1],
+            "classOfService": "T",
+            "cabin": "Economy",
+            "fareBasisCode": "TDACFR",
+            "fareType": "AirlinePrivateFare",
+            "fareTypeCode": "XEX",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b8"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@type": "ProductAir",
+    "totalDuration": "PT1H15M",
+    "id": "p61",
+    "Quantity": 9,
+    "FlightSegment": [
+      {
+        "@type": "FlightSegment",
+        "sequence": 1,
+        "Flight": {
+          "@type": "FlightID",
+          "FlightRef": "s8"
+        }
+      }
+    ],
+    "PassengerFlight": [
+      {
+        "@type": "PassengerFlight",
+        "passengerQuantity": 1,
+        "passengerTypeCode": "ADT",
+        "FlightProduct": [
+          {
+            "@type": "FlightProduct",
+            "segmentSequence": [1],
+            "classOfService": "T",
+            "cabin": "Economy",
+            "fareBasisCode": "TDACFR",
+            "fareType": "AirlinePrivateFare",
+            "fareTypeCode": "XEX",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b8"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@type": "ProductAir",
+    "totalDuration": "PT1H15M",
+    "id": "p62",
+    "Quantity": 9,
+    "FlightSegment": [
+      {
+        "@type": "FlightSegment",
+        "sequence": 1,
+        "Flight": {
+          "@type": "FlightID",
+          "FlightRef": "s9"
+        }
+      }
+    ],
+    "PassengerFlight": [
+      {
+        "@type": "PassengerFlight",
+        "passengerQuantity": 1,
+        "passengerTypeCode": "ADT",
+        "FlightProduct": [
+          {
+            "@type": "FlightProduct",
+            "segmentSequence": [1],
+            "classOfService": "T",
+            "cabin": "Economy",
+            "fareBasisCode": "TDACFR",
+            "fareType": "AirlinePrivateFare",
+            "fareTypeCode": "XEX",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b8"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@type": "ProductAir",
+    "totalDuration": "PT1H15M",
+    "id": "p63",
+    "Quantity": 9,
+    "FlightSegment": [
+      {
+        "@type": "FlightSegment",
+        "sequence": 1,
+        "Flight": {
+          "@type": "FlightID",
+          "FlightRef": "s10"
+        }
+      }
+    ],
+    "PassengerFlight": [
+      {
+        "@type": "PassengerFlight",
+        "passengerQuantity": 1,
+        "passengerTypeCode": "ADT",
+        "FlightProduct": [
+          {
+            "@type": "FlightProduct",
+            "segmentSequence": [1],
+            "classOfService": "T",
+            "cabin": "Economy",
+            "fareBasisCode": "TDACFR",
+            "fareType": "AirlinePrivateFare",
+            "fareTypeCode": "XEX",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b8"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@type": "ProductAir",
+    "totalDuration": "PT1H5M",
+    "id": "p64",
+    "Quantity": 9,
+    "FlightSegment": [
+      {
+        "@type": "FlightSegment",
+        "sequence": 1,
+        "Flight": {
+          "@type": "FlightID",
+          "FlightRef": "s15"
+        }
+      }
+    ],
+    "PassengerFlight": [
+      {
+        "@type": "PassengerFlight",
+        "passengerQuantity": 1,
+        "passengerTypeCode": "ADT",
+        "FlightProduct": [
+          {
+            "@type": "FlightProduct",
+            "segmentSequence": [1],
+            "classOfService": "Y",
+            "cabin": "Economy",
+            "fareBasisCode": "YDACFR",
+            "fareType": "AirlinePrivateFare",
+            "fareTypeCode": "ER",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b8"
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

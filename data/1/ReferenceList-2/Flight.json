@@ -1,0 +1,477 @@
+// "Flight":
+[
+  {
+    "@type": "FlightDetail",
+    "distance": 193,
+    "duration": "PT55M",
+    "carrier": "BS",
+    "number": "147",
+    "equipment": "738",
+    "id": "s1",
+    "Departure": {
+      "@type": "DepartureDetail",
+      "terminal": "D",
+      "location": "DAC",
+      "date": "2025-06-05",
+      "time": "11:40:00"
+    },
+    "Arrival": {
+      "@type": "ArrivalDetail",
+      "terminal": "D",
+      "location": "CXB",
+      "date": "2025-06-05",
+      "time": "12:35:00"
+    },
+    "AvailabilitySourceCode": "A"
+  },
+  {
+    "@type": "FlightDetail",
+    "distance": 193,
+    "duration": "PT1H15M",
+    "carrier": "BG",
+    "number": "437",
+    "equipment": "DH8",
+    "id": "s10",
+    "Departure": {
+      "@type": "DepartureDetail",
+      "terminal": "D",
+      "location": "DAC",
+      "date": "2025-06-05",
+      "time": "15:30:00"
+    },
+    "Arrival": {
+      "@type": "ArrivalDetail",
+      "location": "CXB",
+      "date": "2025-06-05",
+      "time": "16:45:00"
+    },
+    "AvailabilitySourceCode": "P"
+  },
+  {
+    "@type": "FlightDetail",
+    "distance": 193,
+    "duration": "PT1H5M",
+    "carrier": "BS",
+    "number": "142",
+    "equipment": "AT7",
+    "id": "s11",
+    "Departure": {
+      "@type": "DepartureDetail",
+      "terminal": "D",
+      "location": "CXB",
+      "date": "2025-06-10",
+      "time": "09:05:00"
+    },
+    "Arrival": {
+      "@type": "ArrivalDetail",
+      "terminal": "D",
+      "location": "DAC",
+      "date": "2025-06-10",
+      "time": "10:10:00"
+    },
+    "AvailabilitySourceCode": "A"
+  },
+  {
+    "@type": "FlightDetail",
+    "distance": 193,
+    "duration": "PT1H5M",
+    "carrier": "BS",
+    "number": "144",
+    "equipment": "AT7",
+    "id": "s12",
+    "Departure": {
+      "@type": "DepartureDetail",
+      "terminal": "D",
+      "location": "CXB",
+      "date": "2025-06-10",
+      "time": "11:25:00"
+    },
+    "Arrival": {
+      "@type": "ArrivalDetail",
+      "terminal": "D",
+      "location": "DAC",
+      "date": "2025-06-10",
+      "time": "12:30:00"
+    },
+    "AvailabilitySourceCode": "A"
+  },
+  {
+    "@type": "FlightDetail",
+    "distance": 193,
+    "duration": "PT1H5M",
+    "carrier": "BG",
+    "number": "434",
+    "equipment": "DH8",
+    "id": "s13",
+    "Departure": {
+      "@type": "DepartureDetail",
+      "location": "CXB",
+      "date": "2025-06-10",
+      "time": "11:55:00"
+    },
+    "Arrival": {
+      "@type": "ArrivalDetail",
+      "terminal": "D",
+      "location": "DAC",
+      "date": "2025-06-10",
+      "time": "13:00:00"
+    },
+    "AvailabilitySourceCode": "P"
+  },
+  {
+    "@type": "FlightDetail",
+    "distance": 193,
+    "duration": "PT1H5M",
+    "carrier": "BS",
+    "number": "146",
+    "equipment": "AT7",
+    "id": "s14",
+    "Departure": {
+      "@type": "DepartureDetail",
+      "terminal": "D",
+      "location": "CXB",
+      "date": "2025-06-10",
+      "time": "12:15:00"
+    },
+    "Arrival": {
+      "@type": "ArrivalDetail",
+      "terminal": "D",
+      "location": "DAC",
+      "date": "2025-06-10",
+      "time": "13:20:00"
+    },
+    "AvailabilitySourceCode": "A"
+  },
+  {
+    "@type": "FlightDetail",
+    "distance": 193,
+    "duration": "PT1H5M",
+    "carrier": "BG",
+    "number": "436",
+    "equipment": "DH8",
+    "id": "s15",
+    "Departure": {
+      "@type": "DepartureDetail",
+      "location": "CXB",
+      "date": "2025-06-10",
+      "time": "13:25:00"
+    },
+    "Arrival": {
+      "@type": "ArrivalDetail",
+      "terminal": "D",
+      "location": "DAC",
+      "date": "2025-06-10",
+      "time": "14:30:00"
+    },
+    "AvailabilitySourceCode": "P"
+  },
+  {
+    "@type": "FlightDetail",
+    "distance": 193,
+    "duration": "PT1H5M",
+    "carrier": "BS",
+    "number": "148",
+    "equipment": "738",
+    "id": "s16",
+    "Departure": {
+      "@type": "DepartureDetail",
+      "terminal": "D",
+      "location": "CXB",
+      "date": "2025-06-10",
+      "time": "13:35:00"
+    },
+    "Arrival": {
+      "@type": "ArrivalDetail",
+      "terminal": "D",
+      "location": "DAC",
+      "date": "2025-06-10",
+      "time": "14:40:00"
+    },
+    "AvailabilitySourceCode": "A"
+  },
+  {
+    "@type": "FlightDetail",
+    "distance": 193,
+    "duration": "PT1H5M",
+    "carrier": "BS",
+    "number": "152",
+    "equipment": "AT7",
+    "id": "s17",
+    "Departure": {
+      "@type": "DepartureDetail",
+      "terminal": "D",
+      "location": "CXB",
+      "date": "2025-06-10",
+      "time": "15:45:00"
+    },
+    "Arrival": {
+      "@type": "ArrivalDetail",
+      "terminal": "D",
+      "location": "DAC",
+      "date": "2025-06-10",
+      "time": "16:50:00"
+    },
+    "AvailabilitySourceCode": "A"
+  },
+  {
+    "@type": "FlightDetail",
+    "distance": 193,
+    "duration": "PT1H5M",
+    "carrier": "BG",
+    "number": "438",
+    "equipment": "DH8",
+    "id": "s18",
+    "Departure": {
+      "@type": "DepartureDetail",
+      "location": "CXB",
+      "date": "2025-06-10",
+      "time": "17:10:00"
+    },
+    "Arrival": {
+      "@type": "ArrivalDetail",
+      "terminal": "D",
+      "location": "DAC",
+      "date": "2025-06-10",
+      "time": "18:15:00"
+    },
+    "AvailabilitySourceCode": "P"
+  },
+  {
+    "@type": "FlightDetail",
+    "distance": 193,
+    "duration": "PT1H5M",
+    "carrier": "BS",
+    "number": "158",
+    "equipment": "AT7",
+    "id": "s19",
+    "Departure": {
+      "@type": "DepartureDetail",
+      "terminal": "D",
+      "location": "CXB",
+      "date": "2025-06-10",
+      "time": "18:10:00"
+    },
+    "Arrival": {
+      "@type": "ArrivalDetail",
+      "terminal": "D",
+      "location": "DAC",
+      "date": "2025-06-10",
+      "time": "19:15:00"
+    },
+    "AvailabilitySourceCode": "A"
+  },
+  {
+    "@type": "FlightDetail",
+    "distance": 193,
+    "duration": "PT1H5M",
+    "carrier": "BS",
+    "number": "141",
+    "equipment": "AT7",
+    "id": "s2",
+    "Departure": {
+      "@type": "DepartureDetail",
+      "terminal": "D",
+      "location": "DAC",
+      "date": "2025-06-05",
+      "time": "07:30:00"
+    },
+    "Arrival": {
+      "@type": "ArrivalDetail",
+      "terminal": "D",
+      "location": "CXB",
+      "date": "2025-06-05",
+      "time": "08:35:00"
+    },
+    "AvailabilitySourceCode": "A"
+  },
+  {
+    "@type": "FlightDetail",
+    "distance": 193,
+    "duration": "PT1H5M",
+    "carrier": "BS",
+    "number": "160",
+    "equipment": "AT7",
+    "id": "s20",
+    "Departure": {
+      "@type": "DepartureDetail",
+      "terminal": "D",
+      "location": "CXB",
+      "date": "2025-06-10",
+      "time": "20:45:00"
+    },
+    "Arrival": {
+      "@type": "ArrivalDetail",
+      "terminal": "D",
+      "location": "DAC",
+      "date": "2025-06-10",
+      "time": "21:50:00"
+    },
+    "AvailabilitySourceCode": "A"
+  },
+  {
+    "@type": "FlightDetail",
+    "distance": 193,
+    "duration": "PT1H5M",
+    "carrier": "BS",
+    "number": "143",
+    "equipment": "AT7",
+    "id": "s3",
+    "Departure": {
+      "@type": "DepartureDetail",
+      "terminal": "D",
+      "location": "DAC",
+      "date": "2025-06-05",
+      "time": "09:50:00"
+    },
+    "Arrival": {
+      "@type": "ArrivalDetail",
+      "terminal": "D",
+      "location": "CXB",
+      "date": "2025-06-05",
+      "time": "10:55:00"
+    },
+    "AvailabilitySourceCode": "A"
+  },
+  {
+    "@type": "FlightDetail",
+    "distance": 193,
+    "duration": "PT1H5M",
+    "carrier": "BS",
+    "number": "145",
+    "equipment": "AT7",
+    "id": "s4",
+    "Departure": {
+      "@type": "DepartureDetail",
+      "terminal": "D",
+      "location": "DAC",
+      "date": "2025-06-05",
+      "time": "10:40:00"
+    },
+    "Arrival": {
+      "@type": "ArrivalDetail",
+      "terminal": "D",
+      "location": "CXB",
+      "date": "2025-06-05",
+      "time": "11:45:00"
+    },
+    "AvailabilitySourceCode": "A"
+  },
+  {
+    "@type": "FlightDetail",
+    "distance": 193,
+    "duration": "PT1H5M",
+    "carrier": "BS",
+    "number": "151",
+    "equipment": "AT7",
+    "id": "s5",
+    "Departure": {
+      "@type": "DepartureDetail",
+      "terminal": "D",
+      "location": "DAC",
+      "date": "2025-06-05",
+      "time": "14:10:00"
+    },
+    "Arrival": {
+      "@type": "ArrivalDetail",
+      "terminal": "D",
+      "location": "CXB",
+      "date": "2025-06-05",
+      "time": "15:15:00"
+    },
+    "AvailabilitySourceCode": "A"
+  },
+  {
+    "@type": "FlightDetail",
+    "distance": 193,
+    "duration": "PT1H5M",
+    "carrier": "BS",
+    "number": "157",
+    "equipment": "AT7",
+    "id": "s6",
+    "Departure": {
+      "@type": "DepartureDetail",
+      "terminal": "D",
+      "location": "DAC",
+      "date": "2025-06-05",
+      "time": "16:35:00"
+    },
+    "Arrival": {
+      "@type": "ArrivalDetail",
+      "terminal": "D",
+      "location": "CXB",
+      "date": "2025-06-05",
+      "time": "17:40:00"
+    },
+    "AvailabilitySourceCode": "A"
+  },
+  {
+    "@type": "FlightDetail",
+    "distance": 193,
+    "duration": "PT1H5M",
+    "carrier": "BS",
+    "number": "159",
+    "equipment": "AT7",
+    "id": "s7",
+    "Departure": {
+      "@type": "DepartureDetail",
+      "terminal": "D",
+      "location": "DAC",
+      "date": "2025-06-05",
+      "time": "19:10:00"
+    },
+    "Arrival": {
+      "@type": "ArrivalDetail",
+      "terminal": "D",
+      "location": "CXB",
+      "date": "2025-06-05",
+      "time": "20:15:00"
+    },
+    "AvailabilitySourceCode": "A"
+  },
+  {
+    "@type": "FlightDetail",
+    "distance": 193,
+    "duration": "PT1H15M",
+    "carrier": "BG",
+    "number": "433",
+    "equipment": "DH8",
+    "id": "s8",
+    "Departure": {
+      "@type": "DepartureDetail",
+      "terminal": "D",
+      "location": "DAC",
+      "date": "2025-06-05",
+      "time": "10:15:00"
+    },
+    "Arrival": {
+      "@type": "ArrivalDetail",
+      "location": "CXB",
+      "date": "2025-06-05",
+      "time": "11:30:00"
+    },
+    "AvailabilitySourceCode": "P"
+  },
+  {
+    "@type": "FlightDetail",
+    "distance": 193,
+    "duration": "PT1H15M",
+    "carrier": "BG",
+    "number": "435",
+    "equipment": "DH8",
+    "id": "s9",
+    "Departure": {
+      "@type": "DepartureDetail",
+      "terminal": "D",
+      "location": "DAC",
+      "date": "2025-06-05",
+      "time": "11:45:00"
+    },
+    "Arrival": {
+      "@type": "ArrivalDetail",
+      "location": "CXB",
+      "date": "2025-06-05",
+      "time": "13:00:00"
+    },
+    "AvailabilitySourceCode": "P"
+  }
+]

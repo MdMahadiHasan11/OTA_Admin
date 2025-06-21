@@ -1,0 +1,101 @@
+//total: 12 data
+{
+  "@type": "TermsAndConditionsAir",
+  "id": "T0", //T0 ... T11
+  "BaggageAllowance": [
+    {
+      "@type": "BaggageAllowanceDetail",
+      "url": "http://VIEWTRIP.TRAVELPORT.COM/BAGGAGEPOLICY/BS",
+      "passengerTypeCodes": ["ADT"],
+      "baggageType": "FirstCheckedBag",
+      "validatingAirlineCode": "BS",
+      "ProductRef": ["p0", "p1", "p2", "p3", "p4", "p5", "p6"], // p7..p13// p14..p20//p21..p27..//  ..p64
+      "BaggageItem": [
+        {
+          "@type": "BaggageItem",
+          "includedInOfferPrice": "Yes",
+          "soldByWeightInd": true,
+          "Measurement": [
+            {
+              "measurementType": "Weight",
+              "unit": "Kilograms",
+              "value": 20
+            }
+          ],
+          "Text": "CHGS MAY APPLY IF BAGS EXCEED TTL WT ALLOWANCE"
+        }
+      ],
+      "SegmentSequenceList": [1]
+    },
+    {
+      "@type": "BaggageAllowanceDetail",
+      "passengerTypeCodes": ["ADT"],
+      "baggageType": "CarryOn",
+      "validatingAirlineCode": "BS",
+      "ProductRef": ["p0", "p1", "p2", "p3", "p4", "p5", "p6"],
+      "BaggageItem": [
+        {
+          "@type": "BaggageItem",
+          "includedInOfferPrice": "Yes",
+          "soldByWeightInd": true,
+          "Measurement": [
+            {
+              "measurementType": "Weight",
+              "unit": "Kilograms",
+              "value": 7
+            }
+          ],
+          "Text": "CHGS MAY APPLY IF BAGS EXCEED TTL WT ALLOWANCE"
+        }
+      ],
+      "SegmentSequenceList": [1]
+    }
+  ],
+  "ValidatingAirline": [
+    {
+      "@type": "ValidatingAirline",
+      "ValidatingAirline": "BS"
+    }
+  ],
+  "PaymentTimeLimit": "2025-05-25T19:59:00Z",
+  "Penalties": [
+    {
+      "@type": "Penalties",
+      "Change": [
+        {
+          "@type": "ChangePermitted",
+          "penaltyTypes": ["Anytime"],
+          "PenaltyAppliesTo": "PerTicket",
+          "Penalty": [
+            {
+              "@type": "PenaltyAmount",
+              "Amount": {
+                "code": "BDT",
+                "minorUnit": 1,
+                "value": 2000
+              }
+            }
+          ]
+        }
+      ],
+      "Cancel": [
+        {
+          "@type": "CancelPermitted",
+          "penaltyTypes": ["Anytime"],
+          "PenaltyAppliesTo": "PerTicket",
+          "Penalty": [
+            {
+              "@type": "PenaltyAmount",
+              "Amount": {
+                "code": "BDT",
+                "minorUnit": 1,
+                "value": 2000
+              }
+            }
+          ]
+        }
+      ],
+      "PassengerTypeCodes": ["ADT"]
+    }
+  ]
+}

@@ -1,0 +1,3813 @@
+//  CatalogProductOffering:
+[
+  {
+    "@type": "CatalogProductOffering",
+    "sequence": 1,
+    "id": "o1",
+    "Departure": "DAC",
+    "Arrival": "CXB",
+    "Brand": [
+      {
+        "@type": "BrandID",
+        "BrandRef": "b0"
+      },
+      {
+        "@type": "BrandID",
+        "BrandRef": "b1"
+      },
+      {
+        "@type": "BrandID",
+        "BrandRef": "b2"
+      },
+      {
+        "@type": "BrandID",
+        "BrandRef": "b3"
+      },
+      {
+        "@type": "BrandID",
+        "BrandRef": "b4"
+      },
+      {
+        "@type": "BrandID",
+        "BrandRef": "b5"
+      },
+      {
+        "@type": "BrandID",
+        "BrandRef": "b6"
+      },
+      {
+        "@type": "BrandID",
+        "BrandRef": "b7"
+      }
+    ],
+    "ProductBrandOptions": [
+      {
+        "@type": "ProductBrandOptions",
+        "flightRefs": ["s1"],
+        "ProductBrandOffering": [
+          {
+            "@type": "ProductBrandOffering",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b0"
+            },
+            "Product": [
+              {
+                "@type": "ProductID",
+                "productRef": "p0"
+              }
+            ],
+            "TermsAndConditions": {
+              "@type": "TermsAndConditionsID",
+              "termsAndConditionsRef": "T0"
+            },
+            "CombinabilityCode": ["j1"],
+            "BestCombinablePrice": {
+              "@type": "BestCombinablePriceDetail",
+              "CurrencyCode": {
+                "decimalPlace": 0,
+                "value": "BDT"
+              },
+              "Base": 10048,
+              "TotalTaxes": 2349,
+              "TotalFees": 0,
+              "TotalPrice": 12397,
+              "PriceBreakdown": [
+                {
+                  "@type": "PriceBreakdownAir",
+                  "quantity": 1,
+                  "requestedPassengerType": "ADT",
+                  "Amount": {
+                    "@type": "Amount",
+                    "CurrencyCode": {
+                      "decimalPlace": 0,
+                      "value": "BDT"
+                    },
+                    "Base": 10048,
+                    "Taxes": {
+                      "@type": "TaxesDetail",
+                      "TotalTaxes": 2349
+                    },
+                    "Fees": {
+                      "@type": "FeesDetail",
+                      "TotalFees": 0
+                    },
+                    "Total": 12397
+                  }
+                }
+              ]
+            },
+            "ContentSource": "GDS"
+          },
+          {
+            "@type": "ProductBrandOffering",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b5"
+            },
+            "Product": [
+              {
+                "@type": "ProductID",
+                "productRef": "p7"
+              }
+            ],
+            "TermsAndConditions": {
+              "@type": "TermsAndConditionsID",
+              "termsAndConditionsRef": "T1"
+            },
+            "CombinabilityCode": ["j2"],
+            "BestCombinablePrice": {
+              "@type": "BestCombinablePriceDetail",
+              "CurrencyCode": {
+                "decimalPlace": 0,
+                "value": "BDT"
+              },
+              "Base": 10448,
+              "TotalTaxes": 2349,
+              "TotalFees": 0,
+              "TotalPrice": 12797,
+              "PriceBreakdown": [
+                {
+                  "@type": "PriceBreakdownAir",
+                  "quantity": 1,
+                  "requestedPassengerType": "ADT",
+                  "Amount": {
+                    "@type": "Amount",
+                    "CurrencyCode": {
+                      "decimalPlace": 0,
+                      "value": "BDT"
+                    },
+                    "Base": 10448,
+                    "Taxes": {
+                      "@type": "TaxesDetail",
+                      "TotalTaxes": 2349
+                    },
+                    "Fees": {
+                      "@type": "FeesDetail",
+                      "TotalFees": 0
+                    },
+                    "Total": 12797
+                  }
+                }
+              ]
+            },
+            "ContentSource": "GDS"
+          },
+          {
+            "@type": "ProductBrandOffering",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b6"
+            },
+            "Product": [
+              {
+                "@type": "ProductID",
+                "productRef": "p14"
+              }
+            ],
+            "TermsAndConditions": {
+              "@type": "TermsAndConditionsID",
+              "termsAndConditionsRef": "T2"
+            },
+            "CombinabilityCode": ["j3"],
+            "BestCombinablePrice": {
+              "@type": "BestCombinablePriceDetail",
+              "CurrencyCode": {
+                "decimalPlace": 0,
+                "value": "BDT"
+              },
+              "Base": 14950,
+              "TotalTaxes": 2349,
+              "TotalFees": 0,
+              "TotalPrice": 17299,
+              "PriceBreakdown": [
+                {
+                  "@type": "PriceBreakdownAir",
+                  "quantity": 1,
+                  "requestedPassengerType": "ADT",
+                  "Amount": {
+                    "@type": "Amount",
+                    "CurrencyCode": {
+                      "decimalPlace": 0,
+                      "value": "BDT"
+                    },
+                    "Base": 14950,
+                    "Taxes": {
+                      "@type": "TaxesDetail",
+                      "TotalTaxes": 2349
+                    },
+                    "Fees": {
+                      "@type": "FeesDetail",
+                      "TotalFees": 0
+                    },
+                    "Total": 17299
+                  }
+                }
+              ]
+            },
+            "ContentSource": "GDS"
+          },
+          {
+            "@type": "ProductBrandOffering",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b7"
+            },
+            "Product": [
+              {
+                "@type": "ProductID",
+                "productRef": "p21"
+              }
+            ],
+            "TermsAndConditions": {
+              "@type": "TermsAndConditionsID",
+              "termsAndConditionsRef": "T3"
+            },
+            "CombinabilityCode": ["j4"],
+            "BestCombinablePrice": {
+              "@type": "BestCombinablePriceDetail",
+              "CurrencyCode": {
+                "decimalPlace": 0,
+                "value": "BDT"
+              },
+              "Base": 19050,
+              "TotalTaxes": 2349,
+              "TotalFees": 0,
+              "TotalPrice": 21399,
+              "PriceBreakdown": [
+                {
+                  "@type": "PriceBreakdownAir",
+                  "quantity": 1,
+                  "requestedPassengerType": "ADT",
+                  "Amount": {
+                    "@type": "Amount",
+                    "CurrencyCode": {
+                      "decimalPlace": 0,
+                      "value": "BDT"
+                    },
+                    "Base": 19050,
+                    "Taxes": {
+                      "@type": "TaxesDetail",
+                      "TotalTaxes": 2349
+                    },
+                    "Fees": {
+                      "@type": "FeesDetail",
+                      "TotalFees": 0
+                    },
+                    "Total": 21399
+                  }
+                }
+              ]
+            },
+            "ContentSource": "GDS"
+          }
+        ]
+      },
+      {
+        "@type": "ProductBrandOptions",
+        "flightRefs": ["s2"],
+        "ProductBrandOffering": [
+          {
+            "@type": "ProductBrandOffering",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b0"
+            },
+            "Product": [
+              {
+                "@type": "ProductID",
+                "productRef": "p1"
+              }
+            ],
+            "TermsAndConditions": {
+              "@type": "TermsAndConditionsID",
+              "termsAndConditionsRef": "T0"
+            },
+            "CombinabilityCode": ["j1"],
+            "BestCombinablePrice": {
+              "@type": "BestCombinablePriceDetail",
+              "CurrencyCode": {
+                "decimalPlace": 0,
+                "value": "BDT"
+              },
+              "Base": 10048,
+              "TotalTaxes": 2349,
+              "TotalFees": 0,
+              "TotalPrice": 12397,
+              "PriceBreakdown": [
+                {
+                  "@type": "PriceBreakdownAir",
+                  "quantity": 1,
+                  "requestedPassengerType": "ADT",
+                  "Amount": {
+                    "@type": "Amount",
+                    "CurrencyCode": {
+                      "decimalPlace": 0,
+                      "value": "BDT"
+                    },
+                    "Base": 10048,
+                    "Taxes": {
+                      "@type": "TaxesDetail",
+                      "TotalTaxes": 2349
+                    },
+                    "Fees": {
+                      "@type": "FeesDetail",
+                      "TotalFees": 0
+                    },
+                    "Total": 12397
+                  }
+                }
+              ]
+            },
+            "ContentSource": "GDS"
+          },
+          {
+            "@type": "ProductBrandOffering",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b5"
+            },
+            "Product": [
+              {
+                "@type": "ProductID",
+                "productRef": "p8"
+              }
+            ],
+            "TermsAndConditions": {
+              "@type": "TermsAndConditionsID",
+              "termsAndConditionsRef": "T1"
+            },
+            "CombinabilityCode": ["j2"],
+            "BestCombinablePrice": {
+              "@type": "BestCombinablePriceDetail",
+              "CurrencyCode": {
+                "decimalPlace": 0,
+                "value": "BDT"
+              },
+              "Base": 10448,
+              "TotalTaxes": 2349,
+              "TotalFees": 0,
+              "TotalPrice": 12797,
+              "PriceBreakdown": [
+                {
+                  "@type": "PriceBreakdownAir",
+                  "quantity": 1,
+                  "requestedPassengerType": "ADT",
+                  "Amount": {
+                    "@type": "Amount",
+                    "CurrencyCode": {
+                      "decimalPlace": 0,
+                      "value": "BDT"
+                    },
+                    "Base": 10448,
+                    "Taxes": {
+                      "@type": "TaxesDetail",
+                      "TotalTaxes": 2349
+                    },
+                    "Fees": {
+                      "@type": "FeesDetail",
+                      "TotalFees": 0
+                    },
+                    "Total": 12797
+                  }
+                }
+              ]
+            },
+            "ContentSource": "GDS"
+          },
+          {
+            "@type": "ProductBrandOffering",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b6"
+            },
+            "Product": [
+              {
+                "@type": "ProductID",
+                "productRef": "p15"
+              }
+            ],
+            "TermsAndConditions": {
+              "@type": "TermsAndConditionsID",
+              "termsAndConditionsRef": "T2"
+            },
+            "CombinabilityCode": ["j3"],
+            "BestCombinablePrice": {
+              "@type": "BestCombinablePriceDetail",
+              "CurrencyCode": {
+                "decimalPlace": 0,
+                "value": "BDT"
+              },
+              "Base": 14950,
+              "TotalTaxes": 2349,
+              "TotalFees": 0,
+              "TotalPrice": 17299,
+              "PriceBreakdown": [
+                {
+                  "@type": "PriceBreakdownAir",
+                  "quantity": 1,
+                  "requestedPassengerType": "ADT",
+                  "Amount": {
+                    "@type": "Amount",
+                    "CurrencyCode": {
+                      "decimalPlace": 0,
+                      "value": "BDT"
+                    },
+                    "Base": 14950,
+                    "Taxes": {
+                      "@type": "TaxesDetail",
+                      "TotalTaxes": 2349
+                    },
+                    "Fees": {
+                      "@type": "FeesDetail",
+                      "TotalFees": 0
+                    },
+                    "Total": 17299
+                  }
+                }
+              ]
+            },
+            "ContentSource": "GDS"
+          },
+          {
+            "@type": "ProductBrandOffering",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b7"
+            },
+            "Product": [
+              {
+                "@type": "ProductID",
+                "productRef": "p22"
+              }
+            ],
+            "TermsAndConditions": {
+              "@type": "TermsAndConditionsID",
+              "termsAndConditionsRef": "T3"
+            },
+            "CombinabilityCode": ["j4"],
+            "BestCombinablePrice": {
+              "@type": "BestCombinablePriceDetail",
+              "CurrencyCode": {
+                "decimalPlace": 0,
+                "value": "BDT"
+              },
+              "Base": 19050,
+              "TotalTaxes": 2349,
+              "TotalFees": 0,
+              "TotalPrice": 21399,
+              "PriceBreakdown": [
+                {
+                  "@type": "PriceBreakdownAir",
+                  "quantity": 1,
+                  "requestedPassengerType": "ADT",
+                  "Amount": {
+                    "@type": "Amount",
+                    "CurrencyCode": {
+                      "decimalPlace": 0,
+                      "value": "BDT"
+                    },
+                    "Base": 19050,
+                    "Taxes": {
+                      "@type": "TaxesDetail",
+                      "TotalTaxes": 2349
+                    },
+                    "Fees": {
+                      "@type": "FeesDetail",
+                      "TotalFees": 0
+                    },
+                    "Total": 21399
+                  }
+                }
+              ]
+            },
+            "ContentSource": "GDS"
+          }
+        ]
+      },
+      {
+        "@type": "ProductBrandOptions",
+        "flightRefs": ["s3"],
+        "ProductBrandOffering": [
+          {
+            "@type": "ProductBrandOffering",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b0"
+            },
+            "Product": [
+              {
+                "@type": "ProductID",
+                "productRef": "p2"
+              }
+            ],
+            "TermsAndConditions": {
+              "@type": "TermsAndConditionsID",
+              "termsAndConditionsRef": "T0"
+            },
+            "CombinabilityCode": ["j1"],
+            "BestCombinablePrice": {
+              "@type": "BestCombinablePriceDetail",
+              "CurrencyCode": {
+                "decimalPlace": 0,
+                "value": "BDT"
+              },
+              "Base": 10048,
+              "TotalTaxes": 2349,
+              "TotalFees": 0,
+              "TotalPrice": 12397,
+              "PriceBreakdown": [
+                {
+                  "@type": "PriceBreakdownAir",
+                  "quantity": 1,
+                  "requestedPassengerType": "ADT",
+                  "Amount": {
+                    "@type": "Amount",
+                    "CurrencyCode": {
+                      "decimalPlace": 0,
+                      "value": "BDT"
+                    },
+                    "Base": 10048,
+                    "Taxes": {
+                      "@type": "TaxesDetail",
+                      "TotalTaxes": 2349
+                    },
+                    "Fees": {
+                      "@type": "FeesDetail",
+                      "TotalFees": 0
+                    },
+                    "Total": 12397
+                  }
+                }
+              ]
+            },
+            "ContentSource": "GDS"
+          },
+          {
+            "@type": "ProductBrandOffering",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b5"
+            },
+            "Product": [
+              {
+                "@type": "ProductID",
+                "productRef": "p9"
+              }
+            ],
+            "TermsAndConditions": {
+              "@type": "TermsAndConditionsID",
+              "termsAndConditionsRef": "T1"
+            },
+            "CombinabilityCode": ["j2"],
+            "BestCombinablePrice": {
+              "@type": "BestCombinablePriceDetail",
+              "CurrencyCode": {
+                "decimalPlace": 0,
+                "value": "BDT"
+              },
+              "Base": 10448,
+              "TotalTaxes": 2349,
+              "TotalFees": 0,
+              "TotalPrice": 12797,
+              "PriceBreakdown": [
+                {
+                  "@type": "PriceBreakdownAir",
+                  "quantity": 1,
+                  "requestedPassengerType": "ADT",
+                  "Amount": {
+                    "@type": "Amount",
+                    "CurrencyCode": {
+                      "decimalPlace": 0,
+                      "value": "BDT"
+                    },
+                    "Base": 10448,
+                    "Taxes": {
+                      "@type": "TaxesDetail",
+                      "TotalTaxes": 2349
+                    },
+                    "Fees": {
+                      "@type": "FeesDetail",
+                      "TotalFees": 0
+                    },
+                    "Total": 12797
+                  }
+                }
+              ]
+            },
+            "ContentSource": "GDS"
+          },
+          {
+            "@type": "ProductBrandOffering",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b6"
+            },
+            "Product": [
+              {
+                "@type": "ProductID",
+                "productRef": "p16"
+              }
+            ],
+            "TermsAndConditions": {
+              "@type": "TermsAndConditionsID",
+              "termsAndConditionsRef": "T2"
+            },
+            "CombinabilityCode": ["j3"],
+            "BestCombinablePrice": {
+              "@type": "BestCombinablePriceDetail",
+              "CurrencyCode": {
+                "decimalPlace": 0,
+                "value": "BDT"
+              },
+              "Base": 14950,
+              "TotalTaxes": 2349,
+              "TotalFees": 0,
+              "TotalPrice": 17299,
+              "PriceBreakdown": [
+                {
+                  "@type": "PriceBreakdownAir",
+                  "quantity": 1,
+                  "requestedPassengerType": "ADT",
+                  "Amount": {
+                    "@type": "Amount",
+                    "CurrencyCode": {
+                      "decimalPlace": 0,
+                      "value": "BDT"
+                    },
+                    "Base": 14950,
+                    "Taxes": {
+                      "@type": "TaxesDetail",
+                      "TotalTaxes": 2349
+                    },
+                    "Fees": {
+                      "@type": "FeesDetail",
+                      "TotalFees": 0
+                    },
+                    "Total": 17299
+                  }
+                }
+              ]
+            },
+            "ContentSource": "GDS"
+          },
+          {
+            "@type": "ProductBrandOffering",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b7"
+            },
+            "Product": [
+              {
+                "@type": "ProductID",
+                "productRef": "p23"
+              }
+            ],
+            "TermsAndConditions": {
+              "@type": "TermsAndConditionsID",
+              "termsAndConditionsRef": "T3"
+            },
+            "CombinabilityCode": ["j4"],
+            "BestCombinablePrice": {
+              "@type": "BestCombinablePriceDetail",
+              "CurrencyCode": {
+                "decimalPlace": 0,
+                "value": "BDT"
+              },
+              "Base": 19050,
+              "TotalTaxes": 2349,
+              "TotalFees": 0,
+              "TotalPrice": 21399,
+              "PriceBreakdown": [
+                {
+                  "@type": "PriceBreakdownAir",
+                  "quantity": 1,
+                  "requestedPassengerType": "ADT",
+                  "Amount": {
+                    "@type": "Amount",
+                    "CurrencyCode": {
+                      "decimalPlace": 0,
+                      "value": "BDT"
+                    },
+                    "Base": 19050,
+                    "Taxes": {
+                      "@type": "TaxesDetail",
+                      "TotalTaxes": 2349
+                    },
+                    "Fees": {
+                      "@type": "FeesDetail",
+                      "TotalFees": 0
+                    },
+                    "Total": 21399
+                  }
+                }
+              ]
+            },
+            "ContentSource": "GDS"
+          }
+        ]
+      },
+      {
+        "@type": "ProductBrandOptions",
+        "flightRefs": ["s4"],
+        "ProductBrandOffering": [
+          {
+            "@type": "ProductBrandOffering",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b0"
+            },
+            "Product": [
+              {
+                "@type": "ProductID",
+                "productRef": "p3"
+              }
+            ],
+            "TermsAndConditions": {
+              "@type": "TermsAndConditionsID",
+              "termsAndConditionsRef": "T0"
+            },
+            "CombinabilityCode": ["j1"],
+            "BestCombinablePrice": {
+              "@type": "BestCombinablePriceDetail",
+              "CurrencyCode": {
+                "decimalPlace": 0,
+                "value": "BDT"
+              },
+              "Base": 10048,
+              "TotalTaxes": 2349,
+              "TotalFees": 0,
+              "TotalPrice": 12397,
+              "PriceBreakdown": [
+                {
+                  "@type": "PriceBreakdownAir",
+                  "quantity": 1,
+                  "requestedPassengerType": "ADT",
+                  "Amount": {
+                    "@type": "Amount",
+                    "CurrencyCode": {
+                      "decimalPlace": 0,
+                      "value": "BDT"
+                    },
+                    "Base": 10048,
+                    "Taxes": {
+                      "@type": "TaxesDetail",
+                      "TotalTaxes": 2349
+                    },
+                    "Fees": {
+                      "@type": "FeesDetail",
+                      "TotalFees": 0
+                    },
+                    "Total": 12397
+                  }
+                }
+              ]
+            },
+            "ContentSource": "GDS"
+          },
+          {
+            "@type": "ProductBrandOffering",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b5"
+            },
+            "Product": [
+              {
+                "@type": "ProductID",
+                "productRef": "p10"
+              }
+            ],
+            "TermsAndConditions": {
+              "@type": "TermsAndConditionsID",
+              "termsAndConditionsRef": "T1"
+            },
+            "CombinabilityCode": ["j2"],
+            "BestCombinablePrice": {
+              "@type": "BestCombinablePriceDetail",
+              "CurrencyCode": {
+                "decimalPlace": 0,
+                "value": "BDT"
+              },
+              "Base": 10448,
+              "TotalTaxes": 2349,
+              "TotalFees": 0,
+              "TotalPrice": 12797,
+              "PriceBreakdown": [
+                {
+                  "@type": "PriceBreakdownAir",
+                  "quantity": 1,
+                  "requestedPassengerType": "ADT",
+                  "Amount": {
+                    "@type": "Amount",
+                    "CurrencyCode": {
+                      "decimalPlace": 0,
+                      "value": "BDT"
+                    },
+                    "Base": 10448,
+                    "Taxes": {
+                      "@type": "TaxesDetail",
+                      "TotalTaxes": 2349
+                    },
+                    "Fees": {
+                      "@type": "FeesDetail",
+                      "TotalFees": 0
+                    },
+                    "Total": 12797
+                  }
+                }
+              ]
+            },
+            "ContentSource": "GDS"
+          },
+          {
+            "@type": "ProductBrandOffering",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b6"
+            },
+            "Product": [
+              {
+                "@type": "ProductID",
+                "productRef": "p17"
+              }
+            ],
+            "TermsAndConditions": {
+              "@type": "TermsAndConditionsID",
+              "termsAndConditionsRef": "T2"
+            },
+            "CombinabilityCode": ["j3"],
+            "BestCombinablePrice": {
+              "@type": "BestCombinablePriceDetail",
+              "CurrencyCode": {
+                "decimalPlace": 0,
+                "value": "BDT"
+              },
+              "Base": 14950,
+              "TotalTaxes": 2349,
+              "TotalFees": 0,
+              "TotalPrice": 17299,
+              "PriceBreakdown": [
+                {
+                  "@type": "PriceBreakdownAir",
+                  "quantity": 1,
+                  "requestedPassengerType": "ADT",
+                  "Amount": {
+                    "@type": "Amount",
+                    "CurrencyCode": {
+                      "decimalPlace": 0,
+                      "value": "BDT"
+                    },
+                    "Base": 14950,
+                    "Taxes": {
+                      "@type": "TaxesDetail",
+                      "TotalTaxes": 2349
+                    },
+                    "Fees": {
+                      "@type": "FeesDetail",
+                      "TotalFees": 0
+                    },
+                    "Total": 17299
+                  }
+                }
+              ]
+            },
+            "ContentSource": "GDS"
+          },
+          {
+            "@type": "ProductBrandOffering",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b7"
+            },
+            "Product": [
+              {
+                "@type": "ProductID",
+                "productRef": "p24"
+              }
+            ],
+            "TermsAndConditions": {
+              "@type": "TermsAndConditionsID",
+              "termsAndConditionsRef": "T3"
+            },
+            "CombinabilityCode": ["j4"],
+            "BestCombinablePrice": {
+              "@type": "BestCombinablePriceDetail",
+              "CurrencyCode": {
+                "decimalPlace": 0,
+                "value": "BDT"
+              },
+              "Base": 19050,
+              "TotalTaxes": 2349,
+              "TotalFees": 0,
+              "TotalPrice": 21399,
+              "PriceBreakdown": [
+                {
+                  "@type": "PriceBreakdownAir",
+                  "quantity": 1,
+                  "requestedPassengerType": "ADT",
+                  "Amount": {
+                    "@type": "Amount",
+                    "CurrencyCode": {
+                      "decimalPlace": 0,
+                      "value": "BDT"
+                    },
+                    "Base": 19050,
+                    "Taxes": {
+                      "@type": "TaxesDetail",
+                      "TotalTaxes": 2349
+                    },
+                    "Fees": {
+                      "@type": "FeesDetail",
+                      "TotalFees": 0
+                    },
+                    "Total": 21399
+                  }
+                }
+              ]
+            },
+            "ContentSource": "GDS"
+          }
+        ]
+      },
+      {
+        "@type": "ProductBrandOptions",
+        "flightRefs": ["s5"],
+        "ProductBrandOffering": [
+          {
+            "@type": "ProductBrandOffering",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b0"
+            },
+            "Product": [
+              {
+                "@type": "ProductID",
+                "productRef": "p4"
+              }
+            ],
+            "TermsAndConditions": {
+              "@type": "TermsAndConditionsID",
+              "termsAndConditionsRef": "T0"
+            },
+            "CombinabilityCode": ["j1"],
+            "BestCombinablePrice": {
+              "@type": "BestCombinablePriceDetail",
+              "CurrencyCode": {
+                "decimalPlace": 0,
+                "value": "BDT"
+              },
+              "Base": 10048,
+              "TotalTaxes": 2349,
+              "TotalFees": 0,
+              "TotalPrice": 12397,
+              "PriceBreakdown": [
+                {
+                  "@type": "PriceBreakdownAir",
+                  "quantity": 1,
+                  "requestedPassengerType": "ADT",
+                  "Amount": {
+                    "@type": "Amount",
+                    "CurrencyCode": {
+                      "decimalPlace": 0,
+                      "value": "BDT"
+                    },
+                    "Base": 10048,
+                    "Taxes": {
+                      "@type": "TaxesDetail",
+                      "TotalTaxes": 2349
+                    },
+                    "Fees": {
+                      "@type": "FeesDetail",
+                      "TotalFees": 0
+                    },
+                    "Total": 12397
+                  }
+                }
+              ]
+            },
+            "ContentSource": "GDS"
+          },
+          {
+            "@type": "ProductBrandOffering",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b5"
+            },
+            "Product": [
+              {
+                "@type": "ProductID",
+                "productRef": "p11"
+              }
+            ],
+            "TermsAndConditions": {
+              "@type": "TermsAndConditionsID",
+              "termsAndConditionsRef": "T1"
+            },
+            "CombinabilityCode": ["j2"],
+            "BestCombinablePrice": {
+              "@type": "BestCombinablePriceDetail",
+              "CurrencyCode": {
+                "decimalPlace": 0,
+                "value": "BDT"
+              },
+              "Base": 10448,
+              "TotalTaxes": 2349,
+              "TotalFees": 0,
+              "TotalPrice": 12797,
+              "PriceBreakdown": [
+                {
+                  "@type": "PriceBreakdownAir",
+                  "quantity": 1,
+                  "requestedPassengerType": "ADT",
+                  "Amount": {
+                    "@type": "Amount",
+                    "CurrencyCode": {
+                      "decimalPlace": 0,
+                      "value": "BDT"
+                    },
+                    "Base": 10448,
+                    "Taxes": {
+                      "@type": "TaxesDetail",
+                      "TotalTaxes": 2349
+                    },
+                    "Fees": {
+                      "@type": "FeesDetail",
+                      "TotalFees": 0
+                    },
+                    "Total": 12797
+                  }
+                }
+              ]
+            },
+            "ContentSource": "GDS"
+          },
+          {
+            "@type": "ProductBrandOffering",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b6"
+            },
+            "Product": [
+              {
+                "@type": "ProductID",
+                "productRef": "p18"
+              }
+            ],
+            "TermsAndConditions": {
+              "@type": "TermsAndConditionsID",
+              "termsAndConditionsRef": "T2"
+            },
+            "CombinabilityCode": ["j3"],
+            "BestCombinablePrice": {
+              "@type": "BestCombinablePriceDetail",
+              "CurrencyCode": {
+                "decimalPlace": 0,
+                "value": "BDT"
+              },
+              "Base": 14950,
+              "TotalTaxes": 2349,
+              "TotalFees": 0,
+              "TotalPrice": 17299,
+              "PriceBreakdown": [
+                {
+                  "@type": "PriceBreakdownAir",
+                  "quantity": 1,
+                  "requestedPassengerType": "ADT",
+                  "Amount": {
+                    "@type": "Amount",
+                    "CurrencyCode": {
+                      "decimalPlace": 0,
+                      "value": "BDT"
+                    },
+                    "Base": 14950,
+                    "Taxes": {
+                      "@type": "TaxesDetail",
+                      "TotalTaxes": 2349
+                    },
+                    "Fees": {
+                      "@type": "FeesDetail",
+                      "TotalFees": 0
+                    },
+                    "Total": 17299
+                  }
+                }
+              ]
+            },
+            "ContentSource": "GDS"
+          },
+          {
+            "@type": "ProductBrandOffering",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b7"
+            },
+            "Product": [
+              {
+                "@type": "ProductID",
+                "productRef": "p25"
+              }
+            ],
+            "TermsAndConditions": {
+              "@type": "TermsAndConditionsID",
+              "termsAndConditionsRef": "T3"
+            },
+            "CombinabilityCode": ["j4"],
+            "BestCombinablePrice": {
+              "@type": "BestCombinablePriceDetail",
+              "CurrencyCode": {
+                "decimalPlace": 0,
+                "value": "BDT"
+              },
+              "Base": 19050,
+              "TotalTaxes": 2349,
+              "TotalFees": 0,
+              "TotalPrice": 21399,
+              "PriceBreakdown": [
+                {
+                  "@type": "PriceBreakdownAir",
+                  "quantity": 1,
+                  "requestedPassengerType": "ADT",
+                  "Amount": {
+                    "@type": "Amount",
+                    "CurrencyCode": {
+                      "decimalPlace": 0,
+                      "value": "BDT"
+                    },
+                    "Base": 19050,
+                    "Taxes": {
+                      "@type": "TaxesDetail",
+                      "TotalTaxes": 2349
+                    },
+                    "Fees": {
+                      "@type": "FeesDetail",
+                      "TotalFees": 0
+                    },
+                    "Total": 21399
+                  }
+                }
+              ]
+            },
+            "ContentSource": "GDS"
+          }
+        ]
+      },
+      {
+        "@type": "ProductBrandOptions",
+        "flightRefs": ["s6"],
+        "ProductBrandOffering": [
+          {
+            "@type": "ProductBrandOffering",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b0"
+            },
+            "Product": [
+              {
+                "@type": "ProductID",
+                "productRef": "p5"
+              }
+            ],
+            "TermsAndConditions": {
+              "@type": "TermsAndConditionsID",
+              "termsAndConditionsRef": "T0"
+            },
+            "CombinabilityCode": ["j1"],
+            "BestCombinablePrice": {
+              "@type": "BestCombinablePriceDetail",
+              "CurrencyCode": {
+                "decimalPlace": 0,
+                "value": "BDT"
+              },
+              "Base": 10048,
+              "TotalTaxes": 2349,
+              "TotalFees": 0,
+              "TotalPrice": 12397,
+              "PriceBreakdown": [
+                {
+                  "@type": "PriceBreakdownAir",
+                  "quantity": 1,
+                  "requestedPassengerType": "ADT",
+                  "Amount": {
+                    "@type": "Amount",
+                    "CurrencyCode": {
+                      "decimalPlace": 0,
+                      "value": "BDT"
+                    },
+                    "Base": 10048,
+                    "Taxes": {
+                      "@type": "TaxesDetail",
+                      "TotalTaxes": 2349
+                    },
+                    "Fees": {
+                      "@type": "FeesDetail",
+                      "TotalFees": 0
+                    },
+                    "Total": 12397
+                  }
+                }
+              ]
+            },
+            "ContentSource": "GDS"
+          },
+          {
+            "@type": "ProductBrandOffering",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b5"
+            },
+            "Product": [
+              {
+                "@type": "ProductID",
+                "productRef": "p12"
+              }
+            ],
+            "TermsAndConditions": {
+              "@type": "TermsAndConditionsID",
+              "termsAndConditionsRef": "T1"
+            },
+            "CombinabilityCode": ["j2"],
+            "BestCombinablePrice": {
+              "@type": "BestCombinablePriceDetail",
+              "CurrencyCode": {
+                "decimalPlace": 0,
+                "value": "BDT"
+              },
+              "Base": 10448,
+              "TotalTaxes": 2349,
+              "TotalFees": 0,
+              "TotalPrice": 12797,
+              "PriceBreakdown": [
+                {
+                  "@type": "PriceBreakdownAir",
+                  "quantity": 1,
+                  "requestedPassengerType": "ADT",
+                  "Amount": {
+                    "@type": "Amount",
+                    "CurrencyCode": {
+                      "decimalPlace": 0,
+                      "value": "BDT"
+                    },
+                    "Base": 10448,
+                    "Taxes": {
+                      "@type": "TaxesDetail",
+                      "TotalTaxes": 2349
+                    },
+                    "Fees": {
+                      "@type": "FeesDetail",
+                      "TotalFees": 0
+                    },
+                    "Total": 12797
+                  }
+                }
+              ]
+            },
+            "ContentSource": "GDS"
+          },
+          {
+            "@type": "ProductBrandOffering",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b6"
+            },
+            "Product": [
+              {
+                "@type": "ProductID",
+                "productRef": "p19"
+              }
+            ],
+            "TermsAndConditions": {
+              "@type": "TermsAndConditionsID",
+              "termsAndConditionsRef": "T2"
+            },
+            "CombinabilityCode": ["j3"],
+            "BestCombinablePrice": {
+              "@type": "BestCombinablePriceDetail",
+              "CurrencyCode": {
+                "decimalPlace": 0,
+                "value": "BDT"
+              },
+              "Base": 14950,
+              "TotalTaxes": 2349,
+              "TotalFees": 0,
+              "TotalPrice": 17299,
+              "PriceBreakdown": [
+                {
+                  "@type": "PriceBreakdownAir",
+                  "quantity": 1,
+                  "requestedPassengerType": "ADT",
+                  "Amount": {
+                    "@type": "Amount",
+                    "CurrencyCode": {
+                      "decimalPlace": 0,
+                      "value": "BDT"
+                    },
+                    "Base": 14950,
+                    "Taxes": {
+                      "@type": "TaxesDetail",
+                      "TotalTaxes": 2349
+                    },
+                    "Fees": {
+                      "@type": "FeesDetail",
+                      "TotalFees": 0
+                    },
+                    "Total": 17299
+                  }
+                }
+              ]
+            },
+            "ContentSource": "GDS"
+          },
+          {
+            "@type": "ProductBrandOffering",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b7"
+            },
+            "Product": [
+              {
+                "@type": "ProductID",
+                "productRef": "p26"
+              }
+            ],
+            "TermsAndConditions": {
+              "@type": "TermsAndConditionsID",
+              "termsAndConditionsRef": "T3"
+            },
+            "CombinabilityCode": ["j4"],
+            "BestCombinablePrice": {
+              "@type": "BestCombinablePriceDetail",
+              "CurrencyCode": {
+                "decimalPlace": 0,
+                "value": "BDT"
+              },
+              "Base": 19050,
+              "TotalTaxes": 2349,
+              "TotalFees": 0,
+              "TotalPrice": 21399,
+              "PriceBreakdown": [
+                {
+                  "@type": "PriceBreakdownAir",
+                  "quantity": 1,
+                  "requestedPassengerType": "ADT",
+                  "Amount": {
+                    "@type": "Amount",
+                    "CurrencyCode": {
+                      "decimalPlace": 0,
+                      "value": "BDT"
+                    },
+                    "Base": 19050,
+                    "Taxes": {
+                      "@type": "TaxesDetail",
+                      "TotalTaxes": 2349
+                    },
+                    "Fees": {
+                      "@type": "FeesDetail",
+                      "TotalFees": 0
+                    },
+                    "Total": 21399
+                  }
+                }
+              ]
+            },
+            "ContentSource": "GDS"
+          }
+        ]
+      },
+      {
+        "@type": "ProductBrandOptions",
+        "flightRefs": ["s7"],
+        "ProductBrandOffering": [
+          {
+            "@type": "ProductBrandOffering",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b0"
+            },
+            "Product": [
+              {
+                "@type": "ProductID",
+                "productRef": "p6"
+              }
+            ],
+            "TermsAndConditions": {
+              "@type": "TermsAndConditionsID",
+              "termsAndConditionsRef": "T0"
+            },
+            "CombinabilityCode": ["j1"],
+            "BestCombinablePrice": {
+              "@type": "BestCombinablePriceDetail",
+              "CurrencyCode": {
+                "decimalPlace": 0,
+                "value": "BDT"
+              },
+              "Base": 10048,
+              "TotalTaxes": 2349,
+              "TotalFees": 0,
+              "TotalPrice": 12397,
+              "PriceBreakdown": [
+                {
+                  "@type": "PriceBreakdownAir",
+                  "quantity": 1,
+                  "requestedPassengerType": "ADT",
+                  "Amount": {
+                    "@type": "Amount",
+                    "CurrencyCode": {
+                      "decimalPlace": 0,
+                      "value": "BDT"
+                    },
+                    "Base": 10048,
+                    "Taxes": {
+                      "@type": "TaxesDetail",
+                      "TotalTaxes": 2349
+                    },
+                    "Fees": {
+                      "@type": "FeesDetail",
+                      "TotalFees": 0
+                    },
+                    "Total": 12397
+                  }
+                }
+              ]
+            },
+            "ContentSource": "GDS"
+          },
+          {
+            "@type": "ProductBrandOffering",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b5"
+            },
+            "Product": [
+              {
+                "@type": "ProductID",
+                "productRef": "p13"
+              }
+            ],
+            "TermsAndConditions": {
+              "@type": "TermsAndConditionsID",
+              "termsAndConditionsRef": "T1"
+            },
+            "CombinabilityCode": ["j2"],
+            "BestCombinablePrice": {
+              "@type": "BestCombinablePriceDetail",
+              "CurrencyCode": {
+                "decimalPlace": 0,
+                "value": "BDT"
+              },
+              "Base": 10448,
+              "TotalTaxes": 2349,
+              "TotalFees": 0,
+              "TotalPrice": 12797,
+              "PriceBreakdown": [
+                {
+                  "@type": "PriceBreakdownAir",
+                  "quantity": 1,
+                  "requestedPassengerType": "ADT",
+                  "Amount": {
+                    "@type": "Amount",
+                    "CurrencyCode": {
+                      "decimalPlace": 0,
+                      "value": "BDT"
+                    },
+                    "Base": 10448,
+                    "Taxes": {
+                      "@type": "TaxesDetail",
+                      "TotalTaxes": 2349
+                    },
+                    "Fees": {
+                      "@type": "FeesDetail",
+                      "TotalFees": 0
+                    },
+                    "Total": 12797
+                  }
+                }
+              ]
+            },
+            "ContentSource": "GDS"
+          },
+          {
+            "@type": "ProductBrandOffering",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b6"
+            },
+            "Product": [
+              {
+                "@type": "ProductID",
+                "productRef": "p20"
+              }
+            ],
+            "TermsAndConditions": {
+              "@type": "TermsAndConditionsID",
+              "termsAndConditionsRef": "T2"
+            },
+            "CombinabilityCode": ["j3"],
+            "BestCombinablePrice": {
+              "@type": "BestCombinablePriceDetail",
+              "CurrencyCode": {
+                "decimalPlace": 0,
+                "value": "BDT"
+              },
+              "Base": 14950,
+              "TotalTaxes": 2349,
+              "TotalFees": 0,
+              "TotalPrice": 17299,
+              "PriceBreakdown": [
+                {
+                  "@type": "PriceBreakdownAir",
+                  "quantity": 1,
+                  "requestedPassengerType": "ADT",
+                  "Amount": {
+                    "@type": "Amount",
+                    "CurrencyCode": {
+                      "decimalPlace": 0,
+                      "value": "BDT"
+                    },
+                    "Base": 14950,
+                    "Taxes": {
+                      "@type": "TaxesDetail",
+                      "TotalTaxes": 2349
+                    },
+                    "Fees": {
+                      "@type": "FeesDetail",
+                      "TotalFees": 0
+                    },
+                    "Total": 17299
+                  }
+                }
+              ]
+            },
+            "ContentSource": "GDS"
+          },
+          {
+            "@type": "ProductBrandOffering",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b7"
+            },
+            "Product": [
+              {
+                "@type": "ProductID",
+                "productRef": "p27"
+              }
+            ],
+            "TermsAndConditions": {
+              "@type": "TermsAndConditionsID",
+              "termsAndConditionsRef": "T3"
+            },
+            "CombinabilityCode": ["j4"],
+            "BestCombinablePrice": {
+              "@type": "BestCombinablePriceDetail",
+              "CurrencyCode": {
+                "decimalPlace": 0,
+                "value": "BDT"
+              },
+              "Base": 19050,
+              "TotalTaxes": 2349,
+              "TotalFees": 0,
+              "TotalPrice": 21399,
+              "PriceBreakdown": [
+                {
+                  "@type": "PriceBreakdownAir",
+                  "quantity": 1,
+                  "requestedPassengerType": "ADT",
+                  "Amount": {
+                    "@type": "Amount",
+                    "CurrencyCode": {
+                      "decimalPlace": 0,
+                      "value": "BDT"
+                    },
+                    "Base": 19050,
+                    "Taxes": {
+                      "@type": "TaxesDetail",
+                      "TotalTaxes": 2349
+                    },
+                    "Fees": {
+                      "@type": "FeesDetail",
+                      "TotalFees": 0
+                    },
+                    "Total": 21399
+                  }
+                }
+              ]
+            },
+            "ContentSource": "GDS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@type": "CatalogProductOffering",
+    "sequence": 2,
+    "id": "o2",
+    "Departure": "CXB",
+    "Arrival": "DAC",
+    "Brand": [
+      {
+        "@type": "BrandID",
+        "BrandRef": "b0"
+      },
+      {
+        "@type": "BrandID",
+        "BrandRef": "b1"
+      },
+      {
+        "@type": "BrandID",
+        "BrandRef": "b2"
+      },
+      {
+        "@type": "BrandID",
+        "BrandRef": "b3"
+      },
+      {
+        "@type": "BrandID",
+        "BrandRef": "b4"
+      },
+      {
+        "@type": "BrandID",
+        "BrandRef": "b5"
+      },
+      {
+        "@type": "BrandID",
+        "BrandRef": "b6"
+      },
+      {
+        "@type": "BrandID",
+        "BrandRef": "b7"
+      }
+    ],
+    "ProductBrandOptions": [
+      {
+        "@type": "ProductBrandOptions",
+        "flightRefs": ["s11"],
+        "ProductBrandOffering": [
+          {
+            "@type": "ProductBrandOffering",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b0"
+            },
+            "Product": [
+              {
+                "@type": "ProductID",
+                "productRef": "p28"
+              }
+            ],
+            "TermsAndConditions": {
+              "@type": "TermsAndConditionsID",
+              "termsAndConditionsRef": "T4"
+            },
+            "CombinabilityCode": ["j1"],
+            "BestCombinablePrice": {
+              "@type": "BestCombinablePriceDetail",
+              "CurrencyCode": {
+                "decimalPlace": 0,
+                "value": "BDT"
+              },
+              "Base": 10048,
+              "TotalTaxes": 2349,
+              "TotalFees": 0,
+              "TotalPrice": 12397,
+              "PriceBreakdown": [
+                {
+                  "@type": "PriceBreakdownAir",
+                  "quantity": 1,
+                  "requestedPassengerType": "ADT",
+                  "Amount": {
+                    "@type": "Amount",
+                    "CurrencyCode": {
+                      "decimalPlace": 0,
+                      "value": "BDT"
+                    },
+                    "Base": 10048,
+                    "Taxes": {
+                      "@type": "TaxesDetail",
+                      "TotalTaxes": 2349
+                    },
+                    "Fees": {
+                      "@type": "FeesDetail",
+                      "TotalFees": 0
+                    },
+                    "Total": 12397
+                  }
+                }
+              ]
+            },
+            "ContentSource": "GDS"
+          },
+          {
+            "@type": "ProductBrandOffering",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b5"
+            },
+            "Product": [
+              {
+                "@type": "ProductID",
+                "productRef": "p35"
+              }
+            ],
+            "TermsAndConditions": {
+              "@type": "TermsAndConditionsID",
+              "termsAndConditionsRef": "T5"
+            },
+            "CombinabilityCode": ["j2"],
+            "BestCombinablePrice": {
+              "@type": "BestCombinablePriceDetail",
+              "CurrencyCode": {
+                "decimalPlace": 0,
+                "value": "BDT"
+              },
+              "Base": 10448,
+              "TotalTaxes": 2349,
+              "TotalFees": 0,
+              "TotalPrice": 12797,
+              "PriceBreakdown": [
+                {
+                  "@type": "PriceBreakdownAir",
+                  "quantity": 1,
+                  "requestedPassengerType": "ADT",
+                  "Amount": {
+                    "@type": "Amount",
+                    "CurrencyCode": {
+                      "decimalPlace": 0,
+                      "value": "BDT"
+                    },
+                    "Base": 10448,
+                    "Taxes": {
+                      "@type": "TaxesDetail",
+                      "TotalTaxes": 2349
+                    },
+                    "Fees": {
+                      "@type": "FeesDetail",
+                      "TotalFees": 0
+                    },
+                    "Total": 12797
+                  }
+                }
+              ]
+            },
+            "ContentSource": "GDS"
+          },
+          {
+            "@type": "ProductBrandOffering",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b6"
+            },
+            "Product": [
+              {
+                "@type": "ProductID",
+                "productRef": "p42"
+              }
+            ],
+            "TermsAndConditions": {
+              "@type": "TermsAndConditionsID",
+              "termsAndConditionsRef": "T6"
+            },
+            "CombinabilityCode": ["j3"],
+            "BestCombinablePrice": {
+              "@type": "BestCombinablePriceDetail",
+              "CurrencyCode": {
+                "decimalPlace": 0,
+                "value": "BDT"
+              },
+              "Base": 14950,
+              "TotalTaxes": 2349,
+              "TotalFees": 0,
+              "TotalPrice": 17299,
+              "PriceBreakdown": [
+                {
+                  "@type": "PriceBreakdownAir",
+                  "quantity": 1,
+                  "requestedPassengerType": "ADT",
+                  "Amount": {
+                    "@type": "Amount",
+                    "CurrencyCode": {
+                      "decimalPlace": 0,
+                      "value": "BDT"
+                    },
+                    "Base": 14950,
+                    "Taxes": {
+                      "@type": "TaxesDetail",
+                      "TotalTaxes": 2349
+                    },
+                    "Fees": {
+                      "@type": "FeesDetail",
+                      "TotalFees": 0
+                    },
+                    "Total": 17299
+                  }
+                }
+              ]
+            },
+            "ContentSource": "GDS"
+          },
+          {
+            "@type": "ProductBrandOffering",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b7"
+            },
+            "Product": [
+              {
+                "@type": "ProductID",
+                "productRef": "p49"
+              }
+            ],
+            "TermsAndConditions": {
+              "@type": "TermsAndConditionsID",
+              "termsAndConditionsRef": "T7"
+            },
+            "CombinabilityCode": ["j4"],
+            "BestCombinablePrice": {
+              "@type": "BestCombinablePriceDetail",
+              "CurrencyCode": {
+                "decimalPlace": 0,
+                "value": "BDT"
+              },
+              "Base": 19050,
+              "TotalTaxes": 2349,
+              "TotalFees": 0,
+              "TotalPrice": 21399,
+              "PriceBreakdown": [
+                {
+                  "@type": "PriceBreakdownAir",
+                  "quantity": 1,
+                  "requestedPassengerType": "ADT",
+                  "Amount": {
+                    "@type": "Amount",
+                    "CurrencyCode": {
+                      "decimalPlace": 0,
+                      "value": "BDT"
+                    },
+                    "Base": 19050,
+                    "Taxes": {
+                      "@type": "TaxesDetail",
+                      "TotalTaxes": 2349
+                    },
+                    "Fees": {
+                      "@type": "FeesDetail",
+                      "TotalFees": 0
+                    },
+                    "Total": 21399
+                  }
+                }
+              ]
+            },
+            "ContentSource": "GDS"
+          }
+        ]
+      },
+      {
+        "@type": "ProductBrandOptions",
+        "flightRefs": ["s12"],
+        "ProductBrandOffering": [
+          {
+            "@type": "ProductBrandOffering",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b0"
+            },
+            "Product": [
+              {
+                "@type": "ProductID",
+                "productRef": "p29"
+              }
+            ],
+            "TermsAndConditions": {
+              "@type": "TermsAndConditionsID",
+              "termsAndConditionsRef": "T4"
+            },
+            "CombinabilityCode": ["j1"],
+            "BestCombinablePrice": {
+              "@type": "BestCombinablePriceDetail",
+              "CurrencyCode": {
+                "decimalPlace": 0,
+                "value": "BDT"
+              },
+              "Base": 10048,
+              "TotalTaxes": 2349,
+              "TotalFees": 0,
+              "TotalPrice": 12397,
+              "PriceBreakdown": [
+                {
+                  "@type": "PriceBreakdownAir",
+                  "quantity": 1,
+                  "requestedPassengerType": "ADT",
+                  "Amount": {
+                    "@type": "Amount",
+                    "CurrencyCode": {
+                      "decimalPlace": 0,
+                      "value": "BDT"
+                    },
+                    "Base": 10048,
+                    "Taxes": {
+                      "@type": "TaxesDetail",
+                      "TotalTaxes": 2349
+                    },
+                    "Fees": {
+                      "@type": "FeesDetail",
+                      "TotalFees": 0
+                    },
+                    "Total": 12397
+                  }
+                }
+              ]
+            },
+            "ContentSource": "GDS"
+          },
+          {
+            "@type": "ProductBrandOffering",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b5"
+            },
+            "Product": [
+              {
+                "@type": "ProductID",
+                "productRef": "p36"
+              }
+            ],
+            "TermsAndConditions": {
+              "@type": "TermsAndConditionsID",
+              "termsAndConditionsRef": "T5"
+            },
+            "CombinabilityCode": ["j2"],
+            "BestCombinablePrice": {
+              "@type": "BestCombinablePriceDetail",
+              "CurrencyCode": {
+                "decimalPlace": 0,
+                "value": "BDT"
+              },
+              "Base": 10448,
+              "TotalTaxes": 2349,
+              "TotalFees": 0,
+              "TotalPrice": 12797,
+              "PriceBreakdown": [
+                {
+                  "@type": "PriceBreakdownAir",
+                  "quantity": 1,
+                  "requestedPassengerType": "ADT",
+                  "Amount": {
+                    "@type": "Amount",
+                    "CurrencyCode": {
+                      "decimalPlace": 0,
+                      "value": "BDT"
+                    },
+                    "Base": 10448,
+                    "Taxes": {
+                      "@type": "TaxesDetail",
+                      "TotalTaxes": 2349
+                    },
+                    "Fees": {
+                      "@type": "FeesDetail",
+                      "TotalFees": 0
+                    },
+                    "Total": 12797
+                  }
+                }
+              ]
+            },
+            "ContentSource": "GDS"
+          },
+          {
+            "@type": "ProductBrandOffering",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b6"
+            },
+            "Product": [
+              {
+                "@type": "ProductID",
+                "productRef": "p43"
+              }
+            ],
+            "TermsAndConditions": {
+              "@type": "TermsAndConditionsID",
+              "termsAndConditionsRef": "T6"
+            },
+            "CombinabilityCode": ["j3"],
+            "BestCombinablePrice": {
+              "@type": "BestCombinablePriceDetail",
+              "CurrencyCode": {
+                "decimalPlace": 0,
+                "value": "BDT"
+              },
+              "Base": 14950,
+              "TotalTaxes": 2349,
+              "TotalFees": 0,
+              "TotalPrice": 17299,
+              "PriceBreakdown": [
+                {
+                  "@type": "PriceBreakdownAir",
+                  "quantity": 1,
+                  "requestedPassengerType": "ADT",
+                  "Amount": {
+                    "@type": "Amount",
+                    "CurrencyCode": {
+                      "decimalPlace": 0,
+                      "value": "BDT"
+                    },
+                    "Base": 14950,
+                    "Taxes": {
+                      "@type": "TaxesDetail",
+                      "TotalTaxes": 2349
+                    },
+                    "Fees": {
+                      "@type": "FeesDetail",
+                      "TotalFees": 0
+                    },
+                    "Total": 17299
+                  }
+                }
+              ]
+            },
+            "ContentSource": "GDS"
+          },
+          {
+            "@type": "ProductBrandOffering",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b7"
+            },
+            "Product": [
+              {
+                "@type": "ProductID",
+                "productRef": "p50"
+              }
+            ],
+            "TermsAndConditions": {
+              "@type": "TermsAndConditionsID",
+              "termsAndConditionsRef": "T7"
+            },
+            "CombinabilityCode": ["j4"],
+            "BestCombinablePrice": {
+              "@type": "BestCombinablePriceDetail",
+              "CurrencyCode": {
+                "decimalPlace": 0,
+                "value": "BDT"
+              },
+              "Base": 19050,
+              "TotalTaxes": 2349,
+              "TotalFees": 0,
+              "TotalPrice": 21399,
+              "PriceBreakdown": [
+                {
+                  "@type": "PriceBreakdownAir",
+                  "quantity": 1,
+                  "requestedPassengerType": "ADT",
+                  "Amount": {
+                    "@type": "Amount",
+                    "CurrencyCode": {
+                      "decimalPlace": 0,
+                      "value": "BDT"
+                    },
+                    "Base": 19050,
+                    "Taxes": {
+                      "@type": "TaxesDetail",
+                      "TotalTaxes": 2349
+                    },
+                    "Fees": {
+                      "@type": "FeesDetail",
+                      "TotalFees": 0
+                    },
+                    "Total": 21399
+                  }
+                }
+              ]
+            },
+            "ContentSource": "GDS"
+          }
+        ]
+      },
+      {
+        "@type": "ProductBrandOptions",
+        "flightRefs": ["s14"],
+        "ProductBrandOffering": [
+          {
+            "@type": "ProductBrandOffering",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b0"
+            },
+            "Product": [
+              {
+                "@type": "ProductID",
+                "productRef": "p30"
+              }
+            ],
+            "TermsAndConditions": {
+              "@type": "TermsAndConditionsID",
+              "termsAndConditionsRef": "T4"
+            },
+            "CombinabilityCode": ["j1"],
+            "BestCombinablePrice": {
+              "@type": "BestCombinablePriceDetail",
+              "CurrencyCode": {
+                "decimalPlace": 0,
+                "value": "BDT"
+              },
+              "Base": 10048,
+              "TotalTaxes": 2349,
+              "TotalFees": 0,
+              "TotalPrice": 12397,
+              "PriceBreakdown": [
+                {
+                  "@type": "PriceBreakdownAir",
+                  "quantity": 1,
+                  "requestedPassengerType": "ADT",
+                  "Amount": {
+                    "@type": "Amount",
+                    "CurrencyCode": {
+                      "decimalPlace": 0,
+                      "value": "BDT"
+                    },
+                    "Base": 10048,
+                    "Taxes": {
+                      "@type": "TaxesDetail",
+                      "TotalTaxes": 2349
+                    },
+                    "Fees": {
+                      "@type": "FeesDetail",
+                      "TotalFees": 0
+                    },
+                    "Total": 12397
+                  }
+                }
+              ]
+            },
+            "ContentSource": "GDS"
+          },
+          {
+            "@type": "ProductBrandOffering",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b5"
+            },
+            "Product": [
+              {
+                "@type": "ProductID",
+                "productRef": "p37"
+              }
+            ],
+            "TermsAndConditions": {
+              "@type": "TermsAndConditionsID",
+              "termsAndConditionsRef": "T5"
+            },
+            "CombinabilityCode": ["j2"],
+            "BestCombinablePrice": {
+              "@type": "BestCombinablePriceDetail",
+              "CurrencyCode": {
+                "decimalPlace": 0,
+                "value": "BDT"
+              },
+              "Base": 10448,
+              "TotalTaxes": 2349,
+              "TotalFees": 0,
+              "TotalPrice": 12797,
+              "PriceBreakdown": [
+                {
+                  "@type": "PriceBreakdownAir",
+                  "quantity": 1,
+                  "requestedPassengerType": "ADT",
+                  "Amount": {
+                    "@type": "Amount",
+                    "CurrencyCode": {
+                      "decimalPlace": 0,
+                      "value": "BDT"
+                    },
+                    "Base": 10448,
+                    "Taxes": {
+                      "@type": "TaxesDetail",
+                      "TotalTaxes": 2349
+                    },
+                    "Fees": {
+                      "@type": "FeesDetail",
+                      "TotalFees": 0
+                    },
+                    "Total": 12797
+                  }
+                }
+              ]
+            },
+            "ContentSource": "GDS"
+          },
+          {
+            "@type": "ProductBrandOffering",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b6"
+            },
+            "Product": [
+              {
+                "@type": "ProductID",
+                "productRef": "p44"
+              }
+            ],
+            "TermsAndConditions": {
+              "@type": "TermsAndConditionsID",
+              "termsAndConditionsRef": "T6"
+            },
+            "CombinabilityCode": ["j3"],
+            "BestCombinablePrice": {
+              "@type": "BestCombinablePriceDetail",
+              "CurrencyCode": {
+                "decimalPlace": 0,
+                "value": "BDT"
+              },
+              "Base": 14950,
+              "TotalTaxes": 2349,
+              "TotalFees": 0,
+              "TotalPrice": 17299,
+              "PriceBreakdown": [
+                {
+                  "@type": "PriceBreakdownAir",
+                  "quantity": 1,
+                  "requestedPassengerType": "ADT",
+                  "Amount": {
+                    "@type": "Amount",
+                    "CurrencyCode": {
+                      "decimalPlace": 0,
+                      "value": "BDT"
+                    },
+                    "Base": 14950,
+                    "Taxes": {
+                      "@type": "TaxesDetail",
+                      "TotalTaxes": 2349
+                    },
+                    "Fees": {
+                      "@type": "FeesDetail",
+                      "TotalFees": 0
+                    },
+                    "Total": 17299
+                  }
+                }
+              ]
+            },
+            "ContentSource": "GDS"
+          },
+          {
+            "@type": "ProductBrandOffering",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b7"
+            },
+            "Product": [
+              {
+                "@type": "ProductID",
+                "productRef": "p51"
+              }
+            ],
+            "TermsAndConditions": {
+              "@type": "TermsAndConditionsID",
+              "termsAndConditionsRef": "T7"
+            },
+            "CombinabilityCode": ["j4"],
+            "BestCombinablePrice": {
+              "@type": "BestCombinablePriceDetail",
+              "CurrencyCode": {
+                "decimalPlace": 0,
+                "value": "BDT"
+              },
+              "Base": 19050,
+              "TotalTaxes": 2349,
+              "TotalFees": 0,
+              "TotalPrice": 21399,
+              "PriceBreakdown": [
+                {
+                  "@type": "PriceBreakdownAir",
+                  "quantity": 1,
+                  "requestedPassengerType": "ADT",
+                  "Amount": {
+                    "@type": "Amount",
+                    "CurrencyCode": {
+                      "decimalPlace": 0,
+                      "value": "BDT"
+                    },
+                    "Base": 19050,
+                    "Taxes": {
+                      "@type": "TaxesDetail",
+                      "TotalTaxes": 2349
+                    },
+                    "Fees": {
+                      "@type": "FeesDetail",
+                      "TotalFees": 0
+                    },
+                    "Total": 21399
+                  }
+                }
+              ]
+            },
+            "ContentSource": "GDS"
+          }
+        ]
+      },
+      {
+        "@type": "ProductBrandOptions",
+        "flightRefs": ["s16"],
+        "ProductBrandOffering": [
+          {
+            "@type": "ProductBrandOffering",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b0"
+            },
+            "Product": [
+              {
+                "@type": "ProductID",
+                "productRef": "p31"
+              }
+            ],
+            "TermsAndConditions": {
+              "@type": "TermsAndConditionsID",
+              "termsAndConditionsRef": "T4"
+            },
+            "CombinabilityCode": ["j1"],
+            "BestCombinablePrice": {
+              "@type": "BestCombinablePriceDetail",
+              "CurrencyCode": {
+                "decimalPlace": 0,
+                "value": "BDT"
+              },
+              "Base": 10048,
+              "TotalTaxes": 2349,
+              "TotalFees": 0,
+              "TotalPrice": 12397,
+              "PriceBreakdown": [
+                {
+                  "@type": "PriceBreakdownAir",
+                  "quantity": 1,
+                  "requestedPassengerType": "ADT",
+                  "Amount": {
+                    "@type": "Amount",
+                    "CurrencyCode": {
+                      "decimalPlace": 0,
+                      "value": "BDT"
+                    },
+                    "Base": 10048,
+                    "Taxes": {
+                      "@type": "TaxesDetail",
+                      "TotalTaxes": 2349
+                    },
+                    "Fees": {
+                      "@type": "FeesDetail",
+                      "TotalFees": 0
+                    },
+                    "Total": 12397
+                  }
+                }
+              ]
+            },
+            "ContentSource": "GDS"
+          },
+          {
+            "@type": "ProductBrandOffering",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b5"
+            },
+            "Product": [
+              {
+                "@type": "ProductID",
+                "productRef": "p38"
+              }
+            ],
+            "TermsAndConditions": {
+              "@type": "TermsAndConditionsID",
+              "termsAndConditionsRef": "T5"
+            },
+            "CombinabilityCode": ["j2"],
+            "BestCombinablePrice": {
+              "@type": "BestCombinablePriceDetail",
+              "CurrencyCode": {
+                "decimalPlace": 0,
+                "value": "BDT"
+              },
+              "Base": 10448,
+              "TotalTaxes": 2349,
+              "TotalFees": 0,
+              "TotalPrice": 12797,
+              "PriceBreakdown": [
+                {
+                  "@type": "PriceBreakdownAir",
+                  "quantity": 1,
+                  "requestedPassengerType": "ADT",
+                  "Amount": {
+                    "@type": "Amount",
+                    "CurrencyCode": {
+                      "decimalPlace": 0,
+                      "value": "BDT"
+                    },
+                    "Base": 10448,
+                    "Taxes": {
+                      "@type": "TaxesDetail",
+                      "TotalTaxes": 2349
+                    },
+                    "Fees": {
+                      "@type": "FeesDetail",
+                      "TotalFees": 0
+                    },
+                    "Total": 12797
+                  }
+                }
+              ]
+            },
+            "ContentSource": "GDS"
+          },
+          {
+            "@type": "ProductBrandOffering",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b6"
+            },
+            "Product": [
+              {
+                "@type": "ProductID",
+                "productRef": "p45"
+              }
+            ],
+            "TermsAndConditions": {
+              "@type": "TermsAndConditionsID",
+              "termsAndConditionsRef": "T6"
+            },
+            "CombinabilityCode": ["j3"],
+            "BestCombinablePrice": {
+              "@type": "BestCombinablePriceDetail",
+              "CurrencyCode": {
+                "decimalPlace": 0,
+                "value": "BDT"
+              },
+              "Base": 14950,
+              "TotalTaxes": 2349,
+              "TotalFees": 0,
+              "TotalPrice": 17299,
+              "PriceBreakdown": [
+                {
+                  "@type": "PriceBreakdownAir",
+                  "quantity": 1,
+                  "requestedPassengerType": "ADT",
+                  "Amount": {
+                    "@type": "Amount",
+                    "CurrencyCode": {
+                      "decimalPlace": 0,
+                      "value": "BDT"
+                    },
+                    "Base": 14950,
+                    "Taxes": {
+                      "@type": "TaxesDetail",
+                      "TotalTaxes": 2349
+                    },
+                    "Fees": {
+                      "@type": "FeesDetail",
+                      "TotalFees": 0
+                    },
+                    "Total": 17299
+                  }
+                }
+              ]
+            },
+            "ContentSource": "GDS"
+          },
+          {
+            "@type": "ProductBrandOffering",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b7"
+            },
+            "Product": [
+              {
+                "@type": "ProductID",
+                "productRef": "p52"
+              }
+            ],
+            "TermsAndConditions": {
+              "@type": "TermsAndConditionsID",
+              "termsAndConditionsRef": "T7"
+            },
+            "CombinabilityCode": ["j4"],
+            "BestCombinablePrice": {
+              "@type": "BestCombinablePriceDetail",
+              "CurrencyCode": {
+                "decimalPlace": 0,
+                "value": "BDT"
+              },
+              "Base": 19050,
+              "TotalTaxes": 2349,
+              "TotalFees": 0,
+              "TotalPrice": 21399,
+              "PriceBreakdown": [
+                {
+                  "@type": "PriceBreakdownAir",
+                  "quantity": 1,
+                  "requestedPassengerType": "ADT",
+                  "Amount": {
+                    "@type": "Amount",
+                    "CurrencyCode": {
+                      "decimalPlace": 0,
+                      "value": "BDT"
+                    },
+                    "Base": 19050,
+                    "Taxes": {
+                      "@type": "TaxesDetail",
+                      "TotalTaxes": 2349
+                    },
+                    "Fees": {
+                      "@type": "FeesDetail",
+                      "TotalFees": 0
+                    },
+                    "Total": 21399
+                  }
+                }
+              ]
+            },
+            "ContentSource": "GDS"
+          }
+        ]
+      },
+      {
+        "@type": "ProductBrandOptions",
+        "flightRefs": ["s17"],
+        "ProductBrandOffering": [
+          {
+            "@type": "ProductBrandOffering",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b0"
+            },
+            "Product": [
+              {
+                "@type": "ProductID",
+                "productRef": "p32"
+              }
+            ],
+            "TermsAndConditions": {
+              "@type": "TermsAndConditionsID",
+              "termsAndConditionsRef": "T4"
+            },
+            "CombinabilityCode": ["j1"],
+            "BestCombinablePrice": {
+              "@type": "BestCombinablePriceDetail",
+              "CurrencyCode": {
+                "decimalPlace": 0,
+                "value": "BDT"
+              },
+              "Base": 10048,
+              "TotalTaxes": 2349,
+              "TotalFees": 0,
+              "TotalPrice": 12397,
+              "PriceBreakdown": [
+                {
+                  "@type": "PriceBreakdownAir",
+                  "quantity": 1,
+                  "requestedPassengerType": "ADT",
+                  "Amount": {
+                    "@type": "Amount",
+                    "CurrencyCode": {
+                      "decimalPlace": 0,
+                      "value": "BDT"
+                    },
+                    "Base": 10048,
+                    "Taxes": {
+                      "@type": "TaxesDetail",
+                      "TotalTaxes": 2349
+                    },
+                    "Fees": {
+                      "@type": "FeesDetail",
+                      "TotalFees": 0
+                    },
+                    "Total": 12397
+                  }
+                }
+              ]
+            },
+            "ContentSource": "GDS"
+          },
+          {
+            "@type": "ProductBrandOffering",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b5"
+            },
+            "Product": [
+              {
+                "@type": "ProductID",
+                "productRef": "p39"
+              }
+            ],
+            "TermsAndConditions": {
+              "@type": "TermsAndConditionsID",
+              "termsAndConditionsRef": "T5"
+            },
+            "CombinabilityCode": ["j2"],
+            "BestCombinablePrice": {
+              "@type": "BestCombinablePriceDetail",
+              "CurrencyCode": {
+                "decimalPlace": 0,
+                "value": "BDT"
+              },
+              "Base": 10448,
+              "TotalTaxes": 2349,
+              "TotalFees": 0,
+              "TotalPrice": 12797,
+              "PriceBreakdown": [
+                {
+                  "@type": "PriceBreakdownAir",
+                  "quantity": 1,
+                  "requestedPassengerType": "ADT",
+                  "Amount": {
+                    "@type": "Amount",
+                    "CurrencyCode": {
+                      "decimalPlace": 0,
+                      "value": "BDT"
+                    },
+                    "Base": 10448,
+                    "Taxes": {
+                      "@type": "TaxesDetail",
+                      "TotalTaxes": 2349
+                    },
+                    "Fees": {
+                      "@type": "FeesDetail",
+                      "TotalFees": 0
+                    },
+                    "Total": 12797
+                  }
+                }
+              ]
+            },
+            "ContentSource": "GDS"
+          },
+          {
+            "@type": "ProductBrandOffering",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b6"
+            },
+            "Product": [
+              {
+                "@type": "ProductID",
+                "productRef": "p46"
+              }
+            ],
+            "TermsAndConditions": {
+              "@type": "TermsAndConditionsID",
+              "termsAndConditionsRef": "T6"
+            },
+            "CombinabilityCode": ["j3"],
+            "BestCombinablePrice": {
+              "@type": "BestCombinablePriceDetail",
+              "CurrencyCode": {
+                "decimalPlace": 0,
+                "value": "BDT"
+              },
+              "Base": 14950,
+              "TotalTaxes": 2349,
+              "TotalFees": 0,
+              "TotalPrice": 17299,
+              "PriceBreakdown": [
+                {
+                  "@type": "PriceBreakdownAir",
+                  "quantity": 1,
+                  "requestedPassengerType": "ADT",
+                  "Amount": {
+                    "@type": "Amount",
+                    "CurrencyCode": {
+                      "decimalPlace": 0,
+                      "value": "BDT"
+                    },
+                    "Base": 14950,
+                    "Taxes": {
+                      "@type": "TaxesDetail",
+                      "TotalTaxes": 2349
+                    },
+                    "Fees": {
+                      "@type": "FeesDetail",
+                      "TotalFees": 0
+                    },
+                    "Total": 17299
+                  }
+                }
+              ]
+            },
+            "ContentSource": "GDS"
+          },
+          {
+            "@type": "ProductBrandOffering",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b7"
+            },
+            "Product": [
+              {
+                "@type": "ProductID",
+                "productRef": "p53"
+              }
+            ],
+            "TermsAndConditions": {
+              "@type": "TermsAndConditionsID",
+              "termsAndConditionsRef": "T7"
+            },
+            "CombinabilityCode": ["j4"],
+            "BestCombinablePrice": {
+              "@type": "BestCombinablePriceDetail",
+              "CurrencyCode": {
+                "decimalPlace": 0,
+                "value": "BDT"
+              },
+              "Base": 19050,
+              "TotalTaxes": 2349,
+              "TotalFees": 0,
+              "TotalPrice": 21399,
+              "PriceBreakdown": [
+                {
+                  "@type": "PriceBreakdownAir",
+                  "quantity": 1,
+                  "requestedPassengerType": "ADT",
+                  "Amount": {
+                    "@type": "Amount",
+                    "CurrencyCode": {
+                      "decimalPlace": 0,
+                      "value": "BDT"
+                    },
+                    "Base": 19050,
+                    "Taxes": {
+                      "@type": "TaxesDetail",
+                      "TotalTaxes": 2349
+                    },
+                    "Fees": {
+                      "@type": "FeesDetail",
+                      "TotalFees": 0
+                    },
+                    "Total": 21399
+                  }
+                }
+              ]
+            },
+            "ContentSource": "GDS"
+          }
+        ]
+      },
+      {
+        "@type": "ProductBrandOptions",
+        "flightRefs": ["s19"],
+        "ProductBrandOffering": [
+          {
+            "@type": "ProductBrandOffering",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b0"
+            },
+            "Product": [
+              {
+                "@type": "ProductID",
+                "productRef": "p33"
+              }
+            ],
+            "TermsAndConditions": {
+              "@type": "TermsAndConditionsID",
+              "termsAndConditionsRef": "T4"
+            },
+            "CombinabilityCode": ["j1"],
+            "BestCombinablePrice": {
+              "@type": "BestCombinablePriceDetail",
+              "CurrencyCode": {
+                "decimalPlace": 0,
+                "value": "BDT"
+              },
+              "Base": 10048,
+              "TotalTaxes": 2349,
+              "TotalFees": 0,
+              "TotalPrice": 12397,
+              "PriceBreakdown": [
+                {
+                  "@type": "PriceBreakdownAir",
+                  "quantity": 1,
+                  "requestedPassengerType": "ADT",
+                  "Amount": {
+                    "@type": "Amount",
+                    "CurrencyCode": {
+                      "decimalPlace": 0,
+                      "value": "BDT"
+                    },
+                    "Base": 10048,
+                    "Taxes": {
+                      "@type": "TaxesDetail",
+                      "TotalTaxes": 2349
+                    },
+                    "Fees": {
+                      "@type": "FeesDetail",
+                      "TotalFees": 0
+                    },
+                    "Total": 12397
+                  }
+                }
+              ]
+            },
+            "ContentSource": "GDS"
+          },
+          {
+            "@type": "ProductBrandOffering",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b5"
+            },
+            "Product": [
+              {
+                "@type": "ProductID",
+                "productRef": "p40"
+              }
+            ],
+            "TermsAndConditions": {
+              "@type": "TermsAndConditionsID",
+              "termsAndConditionsRef": "T5"
+            },
+            "CombinabilityCode": ["j2"],
+            "BestCombinablePrice": {
+              "@type": "BestCombinablePriceDetail",
+              "CurrencyCode": {
+                "decimalPlace": 0,
+                "value": "BDT"
+              },
+              "Base": 10448,
+              "TotalTaxes": 2349,
+              "TotalFees": 0,
+              "TotalPrice": 12797,
+              "PriceBreakdown": [
+                {
+                  "@type": "PriceBreakdownAir",
+                  "quantity": 1,
+                  "requestedPassengerType": "ADT",
+                  "Amount": {
+                    "@type": "Amount",
+                    "CurrencyCode": {
+                      "decimalPlace": 0,
+                      "value": "BDT"
+                    },
+                    "Base": 10448,
+                    "Taxes": {
+                      "@type": "TaxesDetail",
+                      "TotalTaxes": 2349
+                    },
+                    "Fees": {
+                      "@type": "FeesDetail",
+                      "TotalFees": 0
+                    },
+                    "Total": 12797
+                  }
+                }
+              ]
+            },
+            "ContentSource": "GDS"
+          },
+          {
+            "@type": "ProductBrandOffering",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b6"
+            },
+            "Product": [
+              {
+                "@type": "ProductID",
+                "productRef": "p47"
+              }
+            ],
+            "TermsAndConditions": {
+              "@type": "TermsAndConditionsID",
+              "termsAndConditionsRef": "T6"
+            },
+            "CombinabilityCode": ["j3"],
+            "BestCombinablePrice": {
+              "@type": "BestCombinablePriceDetail",
+              "CurrencyCode": {
+                "decimalPlace": 0,
+                "value": "BDT"
+              },
+              "Base": 14950,
+              "TotalTaxes": 2349,
+              "TotalFees": 0,
+              "TotalPrice": 17299,
+              "PriceBreakdown": [
+                {
+                  "@type": "PriceBreakdownAir",
+                  "quantity": 1,
+                  "requestedPassengerType": "ADT",
+                  "Amount": {
+                    "@type": "Amount",
+                    "CurrencyCode": {
+                      "decimalPlace": 0,
+                      "value": "BDT"
+                    },
+                    "Base": 14950,
+                    "Taxes": {
+                      "@type": "TaxesDetail",
+                      "TotalTaxes": 2349
+                    },
+                    "Fees": {
+                      "@type": "FeesDetail",
+                      "TotalFees": 0
+                    },
+                    "Total": 17299
+                  }
+                }
+              ]
+            },
+            "ContentSource": "GDS"
+          },
+          {
+            "@type": "ProductBrandOffering",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b7"
+            },
+            "Product": [
+              {
+                "@type": "ProductID",
+                "productRef": "p54"
+              }
+            ],
+            "TermsAndConditions": {
+              "@type": "TermsAndConditionsID",
+              "termsAndConditionsRef": "T7"
+            },
+            "CombinabilityCode": ["j4"],
+            "BestCombinablePrice": {
+              "@type": "BestCombinablePriceDetail",
+              "CurrencyCode": {
+                "decimalPlace": 0,
+                "value": "BDT"
+              },
+              "Base": 19050,
+              "TotalTaxes": 2349,
+              "TotalFees": 0,
+              "TotalPrice": 21399,
+              "PriceBreakdown": [
+                {
+                  "@type": "PriceBreakdownAir",
+                  "quantity": 1,
+                  "requestedPassengerType": "ADT",
+                  "Amount": {
+                    "@type": "Amount",
+                    "CurrencyCode": {
+                      "decimalPlace": 0,
+                      "value": "BDT"
+                    },
+                    "Base": 19050,
+                    "Taxes": {
+                      "@type": "TaxesDetail",
+                      "TotalTaxes": 2349
+                    },
+                    "Fees": {
+                      "@type": "FeesDetail",
+                      "TotalFees": 0
+                    },
+                    "Total": 21399
+                  }
+                }
+              ]
+            },
+            "ContentSource": "GDS"
+          }
+        ]
+      },
+      {
+        "@type": "ProductBrandOptions",
+        "flightRefs": ["s20"],
+        "ProductBrandOffering": [
+          {
+            "@type": "ProductBrandOffering",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b0"
+            },
+            "Product": [
+              {
+                "@type": "ProductID",
+                "productRef": "p34"
+              }
+            ],
+            "TermsAndConditions": {
+              "@type": "TermsAndConditionsID",
+              "termsAndConditionsRef": "T4"
+            },
+            "CombinabilityCode": ["j1"],
+            "BestCombinablePrice": {
+              "@type": "BestCombinablePriceDetail",
+              "CurrencyCode": {
+                "decimalPlace": 0,
+                "value": "BDT"
+              },
+              "Base": 10048,
+              "TotalTaxes": 2349,
+              "TotalFees": 0,
+              "TotalPrice": 12397,
+              "PriceBreakdown": [
+                {
+                  "@type": "PriceBreakdownAir",
+                  "quantity": 1,
+                  "requestedPassengerType": "ADT",
+                  "Amount": {
+                    "@type": "Amount",
+                    "CurrencyCode": {
+                      "decimalPlace": 0,
+                      "value": "BDT"
+                    },
+                    "Base": 10048,
+                    "Taxes": {
+                      "@type": "TaxesDetail",
+                      "TotalTaxes": 2349
+                    },
+                    "Fees": {
+                      "@type": "FeesDetail",
+                      "TotalFees": 0
+                    },
+                    "Total": 12397
+                  }
+                }
+              ]
+            },
+            "ContentSource": "GDS"
+          },
+          {
+            "@type": "ProductBrandOffering",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b5"
+            },
+            "Product": [
+              {
+                "@type": "ProductID",
+                "productRef": "p41"
+              }
+            ],
+            "TermsAndConditions": {
+              "@type": "TermsAndConditionsID",
+              "termsAndConditionsRef": "T5"
+            },
+            "CombinabilityCode": ["j2"],
+            "BestCombinablePrice": {
+              "@type": "BestCombinablePriceDetail",
+              "CurrencyCode": {
+                "decimalPlace": 0,
+                "value": "BDT"
+              },
+              "Base": 10448,
+              "TotalTaxes": 2349,
+              "TotalFees": 0,
+              "TotalPrice": 12797,
+              "PriceBreakdown": [
+                {
+                  "@type": "PriceBreakdownAir",
+                  "quantity": 1,
+                  "requestedPassengerType": "ADT",
+                  "Amount": {
+                    "@type": "Amount",
+                    "CurrencyCode": {
+                      "decimalPlace": 0,
+                      "value": "BDT"
+                    },
+                    "Base": 10448,
+                    "Taxes": {
+                      "@type": "TaxesDetail",
+                      "TotalTaxes": 2349
+                    },
+                    "Fees": {
+                      "@type": "FeesDetail",
+                      "TotalFees": 0
+                    },
+                    "Total": 12797
+                  }
+                }
+              ]
+            },
+            "ContentSource": "GDS"
+          },
+          {
+            "@type": "ProductBrandOffering",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b6"
+            },
+            "Product": [
+              {
+                "@type": "ProductID",
+                "productRef": "p48"
+              }
+            ],
+            "TermsAndConditions": {
+              "@type": "TermsAndConditionsID",
+              "termsAndConditionsRef": "T6"
+            },
+            "CombinabilityCode": ["j3"],
+            "BestCombinablePrice": {
+              "@type": "BestCombinablePriceDetail",
+              "CurrencyCode": {
+                "decimalPlace": 0,
+                "value": "BDT"
+              },
+              "Base": 14950,
+              "TotalTaxes": 2349,
+              "TotalFees": 0,
+              "TotalPrice": 17299,
+              "PriceBreakdown": [
+                {
+                  "@type": "PriceBreakdownAir",
+                  "quantity": 1,
+                  "requestedPassengerType": "ADT",
+                  "Amount": {
+                    "@type": "Amount",
+                    "CurrencyCode": {
+                      "decimalPlace": 0,
+                      "value": "BDT"
+                    },
+                    "Base": 14950,
+                    "Taxes": {
+                      "@type": "TaxesDetail",
+                      "TotalTaxes": 2349
+                    },
+                    "Fees": {
+                      "@type": "FeesDetail",
+                      "TotalFees": 0
+                    },
+                    "Total": 17299
+                  }
+                }
+              ]
+            },
+            "ContentSource": "GDS"
+          },
+          {
+            "@type": "ProductBrandOffering",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b7"
+            },
+            "Product": [
+              {
+                "@type": "ProductID",
+                "productRef": "p55"
+              }
+            ],
+            "TermsAndConditions": {
+              "@type": "TermsAndConditionsID",
+              "termsAndConditionsRef": "T7"
+            },
+            "CombinabilityCode": ["j4"],
+            "BestCombinablePrice": {
+              "@type": "BestCombinablePriceDetail",
+              "CurrencyCode": {
+                "decimalPlace": 0,
+                "value": "BDT"
+              },
+              "Base": 19050,
+              "TotalTaxes": 2349,
+              "TotalFees": 0,
+              "TotalPrice": 21399,
+              "PriceBreakdown": [
+                {
+                  "@type": "PriceBreakdownAir",
+                  "quantity": 1,
+                  "requestedPassengerType": "ADT",
+                  "Amount": {
+                    "@type": "Amount",
+                    "CurrencyCode": {
+                      "decimalPlace": 0,
+                      "value": "BDT"
+                    },
+                    "Base": 19050,
+                    "Taxes": {
+                      "@type": "TaxesDetail",
+                      "TotalTaxes": 2349
+                    },
+                    "Fees": {
+                      "@type": "FeesDetail",
+                      "TotalFees": 0
+                    },
+                    "Total": 21399
+                  }
+                }
+              ]
+            },
+            "ContentSource": "GDS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@type": "CatalogProductOffering",
+    "sequence": 1,
+    "id": "o3",
+    "Departure": "DAC",
+    "Arrival": "CXB",
+    "Brand": [
+      {
+        "@type": "BrandID",
+        "BrandRef": "b8"
+      },
+      {
+        "@type": "BrandID",
+        "BrandRef": "b9"
+      }
+    ],
+    "ProductBrandOptions": [
+      {
+        "@type": "ProductBrandOptions",
+        "flightRefs": ["s8"],
+        "ProductBrandOffering": [
+          {
+            "@type": "ProductBrandOffering",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b8"
+            },
+            "Product": [
+              {
+                "@type": "ProductID",
+                "productRef": "p56"
+              }
+            ],
+            "TermsAndConditions": {
+              "@type": "TermsAndConditionsID",
+              "termsAndConditionsRef": "T8"
+            },
+            "CombinabilityCode": ["j5"],
+            "BestCombinablePrice": {
+              "@type": "BestCombinablePriceDetail",
+              "CurrencyCode": {
+                "decimalPlace": 0,
+                "value": "BDT"
+              },
+              "Base": 11048,
+              "TotalTaxes": 2349,
+              "TotalFees": 0,
+              "TotalPrice": 13397,
+              "PriceBreakdown": [
+                {
+                  "@type": "PriceBreakdownAir",
+                  "quantity": 1,
+                  "requestedPassengerType": "ADT",
+                  "Amount": {
+                    "@type": "Amount",
+                    "CurrencyCode": {
+                      "decimalPlace": 0,
+                      "value": "BDT"
+                    },
+                    "Base": 11048,
+                    "Taxes": {
+                      "@type": "TaxesDetail",
+                      "TotalTaxes": 2349
+                    },
+                    "Fees": {
+                      "@type": "FeesDetail",
+                      "TotalFees": 0
+                    },
+                    "Total": 13397
+                  }
+                }
+              ]
+            },
+            "ContentSource": "GDS"
+          }
+        ]
+      },
+      {
+        "@type": "ProductBrandOptions",
+        "flightRefs": ["s9"],
+        "ProductBrandOffering": [
+          {
+            "@type": "ProductBrandOffering",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b8"
+            },
+            "Product": [
+              {
+                "@type": "ProductID",
+                "productRef": "p57"
+              }
+            ],
+            "TermsAndConditions": {
+              "@type": "TermsAndConditionsID",
+              "termsAndConditionsRef": "T8"
+            },
+            "CombinabilityCode": ["j5"],
+            "BestCombinablePrice": {
+              "@type": "BestCombinablePriceDetail",
+              "CurrencyCode": {
+                "decimalPlace": 0,
+                "value": "BDT"
+              },
+              "Base": 11048,
+              "TotalTaxes": 2349,
+              "TotalFees": 0,
+              "TotalPrice": 13397,
+              "PriceBreakdown": [
+                {
+                  "@type": "PriceBreakdownAir",
+                  "quantity": 1,
+                  "requestedPassengerType": "ADT",
+                  "Amount": {
+                    "@type": "Amount",
+                    "CurrencyCode": {
+                      "decimalPlace": 0,
+                      "value": "BDT"
+                    },
+                    "Base": 11048,
+                    "Taxes": {
+                      "@type": "TaxesDetail",
+                      "TotalTaxes": 2349
+                    },
+                    "Fees": {
+                      "@type": "FeesDetail",
+                      "TotalFees": 0
+                    },
+                    "Total": 13397
+                  }
+                }
+              ]
+            },
+            "ContentSource": "GDS"
+          }
+        ]
+      },
+      {
+        "@type": "ProductBrandOptions",
+        "flightRefs": ["s10"],
+        "ProductBrandOffering": [
+          {
+            "@type": "ProductBrandOffering",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b8"
+            },
+            "Product": [
+              {
+                "@type": "ProductID",
+                "productRef": "p58"
+              }
+            ],
+            "TermsAndConditions": {
+              "@type": "TermsAndConditionsID",
+              "termsAndConditionsRef": "T8"
+            },
+            "CombinabilityCode": ["j5"],
+            "BestCombinablePrice": {
+              "@type": "BestCombinablePriceDetail",
+              "CurrencyCode": {
+                "decimalPlace": 0,
+                "value": "BDT"
+              },
+              "Base": 11048,
+              "TotalTaxes": 2349,
+              "TotalFees": 0,
+              "TotalPrice": 13397,
+              "PriceBreakdown": [
+                {
+                  "@type": "PriceBreakdownAir",
+                  "quantity": 1,
+                  "requestedPassengerType": "ADT",
+                  "Amount": {
+                    "@type": "Amount",
+                    "CurrencyCode": {
+                      "decimalPlace": 0,
+                      "value": "BDT"
+                    },
+                    "Base": 11048,
+                    "Taxes": {
+                      "@type": "TaxesDetail",
+                      "TotalTaxes": 2349
+                    },
+                    "Fees": {
+                      "@type": "FeesDetail",
+                      "TotalFees": 0
+                    },
+                    "Total": 13397
+                  }
+                }
+              ]
+            },
+            "ContentSource": "GDS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@type": "CatalogProductOffering",
+    "sequence": 2,
+    "id": "o4",
+    "Departure": "CXB",
+    "Arrival": "DAC",
+    "Brand": [
+      {
+        "@type": "BrandID",
+        "BrandRef": "b8"
+      },
+      {
+        "@type": "BrandID",
+        "BrandRef": "b9"
+      }
+    ],
+    "ProductBrandOptions": [
+      {
+        "@type": "ProductBrandOptions",
+        "flightRefs": ["s13"],
+        "ProductBrandOffering": [
+          {
+            "@type": "ProductBrandOffering",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b8"
+            },
+            "Product": [
+              {
+                "@type": "ProductID",
+                "productRef": "p59"
+              }
+            ],
+            "TermsAndConditions": {
+              "@type": "TermsAndConditionsID",
+              "termsAndConditionsRef": "T9"
+            },
+            "CombinabilityCode": ["j5"],
+            "BestCombinablePrice": {
+              "@type": "BestCombinablePriceDetail",
+              "CurrencyCode": {
+                "decimalPlace": 0,
+                "value": "BDT"
+              },
+              "Base": 11048,
+              "TotalTaxes": 2349,
+              "TotalFees": 0,
+              "TotalPrice": 13397,
+              "PriceBreakdown": [
+                {
+                  "@type": "PriceBreakdownAir",
+                  "quantity": 1,
+                  "requestedPassengerType": "ADT",
+                  "Amount": {
+                    "@type": "Amount",
+                    "CurrencyCode": {
+                      "decimalPlace": 0,
+                      "value": "BDT"
+                    },
+                    "Base": 11048,
+                    "Taxes": {
+                      "@type": "TaxesDetail",
+                      "TotalTaxes": 2349
+                    },
+                    "Fees": {
+                      "@type": "FeesDetail",
+                      "TotalFees": 0
+                    },
+                    "Total": 13397
+                  }
+                }
+              ]
+            },
+            "ContentSource": "GDS"
+          }
+        ]
+      },
+      {
+        "@type": "ProductBrandOptions",
+        "flightRefs": ["s18"],
+        "ProductBrandOffering": [
+          {
+            "@type": "ProductBrandOffering",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b8"
+            },
+            "Product": [
+              {
+                "@type": "ProductID",
+                "productRef": "p60"
+              }
+            ],
+            "TermsAndConditions": {
+              "@type": "TermsAndConditionsID",
+              "termsAndConditionsRef": "T9"
+            },
+            "CombinabilityCode": ["j5"],
+            "BestCombinablePrice": {
+              "@type": "BestCombinablePriceDetail",
+              "CurrencyCode": {
+                "decimalPlace": 0,
+                "value": "BDT"
+              },
+              "Base": 11048,
+              "TotalTaxes": 2349,
+              "TotalFees": 0,
+              "TotalPrice": 13397,
+              "PriceBreakdown": [
+                {
+                  "@type": "PriceBreakdownAir",
+                  "quantity": 1,
+                  "requestedPassengerType": "ADT",
+                  "Amount": {
+                    "@type": "Amount",
+                    "CurrencyCode": {
+                      "decimalPlace": 0,
+                      "value": "BDT"
+                    },
+                    "Base": 11048,
+                    "Taxes": {
+                      "@type": "TaxesDetail",
+                      "TotalTaxes": 2349
+                    },
+                    "Fees": {
+                      "@type": "FeesDetail",
+                      "TotalFees": 0
+                    },
+                    "Total": 13397
+                  }
+                }
+              ]
+            },
+            "ContentSource": "GDS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@type": "CatalogProductOffering",
+    "sequence": 1,
+    "id": "o5",
+    "Departure": "DAC",
+    "Arrival": "CXB",
+    "Brand": [
+      {
+        "@type": "BrandID",
+        "BrandRef": "b8"
+      },
+      {
+        "@type": "BrandID",
+        "BrandRef": "b9"
+      }
+    ],
+    "ProductBrandOptions": [
+      {
+        "@type": "ProductBrandOptions",
+        "flightRefs": ["s8"],
+        "ProductBrandOffering": [
+          {
+            "@type": "ProductBrandOffering",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b8"
+            },
+            "Product": [
+              {
+                "@type": "ProductID",
+                "productRef": "p61"
+              }
+            ],
+            "TermsAndConditions": {
+              "@type": "TermsAndConditionsID",
+              "termsAndConditionsRef": "T10"
+            },
+            "CombinabilityCode": ["j6"],
+            "BestCombinablePrice": {
+              "@type": "BestCombinablePriceDetail",
+              "CurrencyCode": {
+                "decimalPlace": 0,
+                "value": "BDT"
+              },
+              "Base": 15548,
+              "TotalTaxes": 2349,
+              "TotalFees": 0,
+              "TotalPrice": 17897,
+              "PriceBreakdown": [
+                {
+                  "@type": "PriceBreakdownAir",
+                  "quantity": 1,
+                  "requestedPassengerType": "ADT",
+                  "Amount": {
+                    "@type": "Amount",
+                    "CurrencyCode": {
+                      "decimalPlace": 0,
+                      "value": "BDT"
+                    },
+                    "Base": 15548,
+                    "Taxes": {
+                      "@type": "TaxesDetail",
+                      "TotalTaxes": 2349
+                    },
+                    "Fees": {
+                      "@type": "FeesDetail",
+                      "TotalFees": 0
+                    },
+                    "Total": 17897
+                  }
+                }
+              ]
+            },
+            "ContentSource": "GDS"
+          }
+        ]
+      },
+      {
+        "@type": "ProductBrandOptions",
+        "flightRefs": ["s9"],
+        "ProductBrandOffering": [
+          {
+            "@type": "ProductBrandOffering",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b8"
+            },
+            "Product": [
+              {
+                "@type": "ProductID",
+                "productRef": "p62"
+              }
+            ],
+            "TermsAndConditions": {
+              "@type": "TermsAndConditionsID",
+              "termsAndConditionsRef": "T10"
+            },
+            "CombinabilityCode": ["j6"],
+            "BestCombinablePrice": {
+              "@type": "BestCombinablePriceDetail",
+              "CurrencyCode": {
+                "decimalPlace": 0,
+                "value": "BDT"
+              },
+              "Base": 15548,
+              "TotalTaxes": 2349,
+              "TotalFees": 0,
+              "TotalPrice": 17897,
+              "PriceBreakdown": [
+                {
+                  "@type": "PriceBreakdownAir",
+                  "quantity": 1,
+                  "requestedPassengerType": "ADT",
+                  "Amount": {
+                    "@type": "Amount",
+                    "CurrencyCode": {
+                      "decimalPlace": 0,
+                      "value": "BDT"
+                    },
+                    "Base": 15548,
+                    "Taxes": {
+                      "@type": "TaxesDetail",
+                      "TotalTaxes": 2349
+                    },
+                    "Fees": {
+                      "@type": "FeesDetail",
+                      "TotalFees": 0
+                    },
+                    "Total": 17897
+                  }
+                }
+              ]
+            },
+            "ContentSource": "GDS"
+          }
+        ]
+      },
+      {
+        "@type": "ProductBrandOptions",
+        "flightRefs": ["s10"],
+        "ProductBrandOffering": [
+          {
+            "@type": "ProductBrandOffering",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b8"
+            },
+            "Product": [
+              {
+                "@type": "ProductID",
+                "productRef": "p63"
+              }
+            ],
+            "TermsAndConditions": {
+              "@type": "TermsAndConditionsID",
+              "termsAndConditionsRef": "T10"
+            },
+            "CombinabilityCode": ["j6"],
+            "BestCombinablePrice": {
+              "@type": "BestCombinablePriceDetail",
+              "CurrencyCode": {
+                "decimalPlace": 0,
+                "value": "BDT"
+              },
+              "Base": 15548,
+              "TotalTaxes": 2349,
+              "TotalFees": 0,
+              "TotalPrice": 17897,
+              "PriceBreakdown": [
+                {
+                  "@type": "PriceBreakdownAir",
+                  "quantity": 1,
+                  "requestedPassengerType": "ADT",
+                  "Amount": {
+                    "@type": "Amount",
+                    "CurrencyCode": {
+                      "decimalPlace": 0,
+                      "value": "BDT"
+                    },
+                    "Base": 15548,
+                    "Taxes": {
+                      "@type": "TaxesDetail",
+                      "TotalTaxes": 2349
+                    },
+                    "Fees": {
+                      "@type": "FeesDetail",
+                      "TotalFees": 0
+                    },
+                    "Total": 17897
+                  }
+                }
+              ]
+            },
+            "ContentSource": "GDS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@type": "CatalogProductOffering",
+    "sequence": 2,
+    "id": "o6",
+    "Departure": "CXB",
+    "Arrival": "DAC",
+    "Brand": [
+      {
+        "@type": "BrandID",
+        "BrandRef": "b8"
+      },
+      {
+        "@type": "BrandID",
+        "BrandRef": "b9"
+      }
+    ],
+    "ProductBrandOptions": [
+      {
+        "@type": "ProductBrandOptions",
+        "flightRefs": ["s15"],
+        "ProductBrandOffering": [
+          {
+            "@type": "ProductBrandOffering",
+            "Brand": {
+              "@type": "BrandID",
+              "BrandRef": "b8"
+            },
+            "Product": [
+              {
+                "@type": "ProductID",
+                "productRef": "p64"
+              }
+            ],
+            "TermsAndConditions": {
+              "@type": "TermsAndConditionsID",
+              "termsAndConditionsRef": "T11"
+            },
+            "CombinabilityCode": ["j6"],
+            "BestCombinablePrice": {
+              "@type": "BestCombinablePriceDetail",
+              "CurrencyCode": {
+                "decimalPlace": 0,
+                "value": "BDT"
+              },
+              "Base": 15548,
+              "TotalTaxes": 2349,
+              "TotalFees": 0,
+              "TotalPrice": 17897,
+              "PriceBreakdown": [
+                {
+                  "@type": "PriceBreakdownAir",
+                  "quantity": 1,
+                  "requestedPassengerType": "ADT",
+                  "Amount": {
+                    "@type": "Amount",
+                    "CurrencyCode": {
+                      "decimalPlace": 0,
+                      "value": "BDT"
+                    },
+                    "Base": 15548,
+                    "Taxes": {
+                      "@type": "TaxesDetail",
+                      "TotalTaxes": 2349
+                    },
+                    "Fees": {
+                      "@type": "FeesDetail",
+                      "TotalFees": 0
+                    },
+                    "Total": 17897
+                  }
+                }
+              ]
+            },
+            "ContentSource": "GDS"
+          }
+        ]
+      }
+    ]
+  }
+]

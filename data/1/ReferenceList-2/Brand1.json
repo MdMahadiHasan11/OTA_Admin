@@ -1,0 +1,89 @@
+// total 10 data
+{
+  "@type": "Brand",
+  "name": "Business Flex", //follow code
+  "tier": 7,
+  "shelfNumbers": [],
+  "code": "BFLEX",
+  //BSAVER =6
+  // EPLUS (Premium Economy) =5
+  // ESAVER =2
+  // EVALUE =3,
+  // EFLEX = 4,
+  // Economy Cl = 1,(tier)
+  // Business C = 2
+  // ELIGHT = 1
+  // FPRIME =8
+  "id": "b2", // b0 .. b9
+  "Identifier": {
+    "value": "1218973" // 1218972...79     //1380804...5
+  },
+  "BrandAttribute": [
+    {
+      "@type": "BrandAttribute",
+      "classification": "Refund", //ReBooking,Meals,SeatAssignment,CheckedBag,CarryOn
+      "inclusion": "Chargeable",
+      "groupCode": "BF",
+      "subGroupCode": "RF",
+      "subCode": "056"
+    },
+    {
+      "@type": "BrandAttribute",
+      "classification": "Rebooking",
+      "inclusion": "Chargeable",
+      "groupCode": "BF",
+      "subGroupCode": "VC",
+      "subCode": "068"
+    },
+    {
+      "@type": "BrandAttribute",
+      "classification": "Meals",
+      "inclusion": "Included",
+      "groupCode": "ML",
+      "subGroupCode": "SN",
+      "subCode": "0AT"
+    },
+    {
+      "@type": "BrandAttribute",
+      "classification": "SeatAssignment",
+      "inclusion": "Included",
+      "groupCode": "SA",
+      "subCode": "0B5"
+    },
+    {
+      "@type": "BrandAttribute",
+      "classification": "CheckedBag",
+      "inclusion": "Included",
+      "groupCode": "BG",
+      "subCode": "0CC"
+    },
+    {
+      "@type": "BrandAttribute",
+      "classification": "CarryOn",
+      "inclusion": "Included",
+      "groupCode": "BG",
+      "subGroupCode": "CY",
+      "subCode": "0L5"
+    }
+  ],
+  "AdditionalBrandAttribute": [
+    {
+      "@type": "AdditionalBrandAttribute",
+      "groupCode": "BF",
+      "subGroupCode": "FR",
+      "subCode": "06G",
+      "Classification": "Mileage Accrual",
+      "Inclusion": "Included"
+    },
+    {
+      "@type": "AdditionalBrandAttribute",
+      "groupCode": "LG",
+      "subCode": "0BX",
+      "Classification": "Lounge Access",
+      "Inclusion": "Chargeable"
+    }
+  ],
+  "ImageURL": [
+    "https://cdn.travelport.com/usbanglaairlines/BS_general_small_391658.png"
+  ]
+}

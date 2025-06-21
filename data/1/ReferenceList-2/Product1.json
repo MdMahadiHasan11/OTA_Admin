@@ -1,0 +1,47 @@
+// total = 65
+
+{
+  "@type": "ProductAir",
+  "totalDuration": "PT55M", //change its
+  "id": "p0", // chnage its  p0 ....  p64
+  "Quantity": 9,
+  "FlightSegment": [
+    {
+      "@type": "FlightSegment",
+      "sequence": 1,
+      "Flight": {
+        "@type": "FlightID",
+        "FlightRef": "s1" //change its  s1,s2,s3,s4,s5,s6,s7,s8,s9,s10,s13,s11,s12,s14,s15,s16,s17,s18,s19,s20
+      }
+    }
+  ],
+  "PassengerFlight": [
+    {
+      "@type": "PassengerFlight",
+      "passengerQuantity": 1,
+      "passengerTypeCode": "ADT",
+      "FlightProduct": [
+        {
+          "@type": "FlightProduct",
+          "segmentSequence": [1],
+          "classOfService": "I", //O,U,B,T,Y
+          "cabin": "Economy",
+          "fareBasisCode": "IDOM6M", //ODOM6M,UDOMR,BDOMR,TDACFR,YDACFR
+          "fareType": "PublicFare",
+          "fareTypeCode": "BR", //XPX,ER,XEX
+          "Brand": {
+            "@type": "BrandID",
+            "BrandRef": "b0" //b5,b6,b7,b8
+            //relation
+            //{ I ,BR ,bo }
+            //{O,XXPX,b5}
+            //{U,ER,b6}
+            //{B,ER,b7}
+            //{T,XEX,b8}
+            //{Y,ER,b8}
+          }
+        }
+      ]
+    }
+  ]
+}

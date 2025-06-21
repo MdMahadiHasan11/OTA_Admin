@@ -1,0 +1,26 @@
+//total 20 data is here
+
+{
+  "@type": "FlightDetail",
+  "distance": 193,
+  "duration": "PT55M",
+  "carrier": "BS",
+  "number": "147",
+  "equipment": "738",
+  "id": "s1", //s1,...s20.
+  "Departure": {
+    "@type": "DepartureDetail",
+    "terminal": "D",
+    "location": "DAC",
+    "date": "2025-06-05",
+    "time": "11:40:00"
+  },
+  "Arrival": {
+    "@type": "ArrivalDetail",
+    "terminal": "D",
+    "location": "CXB",
+    "date": "2025-06-05",
+    "time": "12:35:00"
+  },
+  "AvailabilitySourceCode": "A" //A,P
+}
